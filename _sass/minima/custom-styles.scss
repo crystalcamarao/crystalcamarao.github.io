@@ -1,0 +1,29 @@
+// Placeholder to allow defining custom styles that override everything else.
+// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+@import url('https://fonts.googleapis.com/css2?family=Cardo&family=Oswald&display=swap');
+
+body {
+ font-family: 'Cardo', serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+ font-family: 'Oswald', sans-serif;
+ text-transform: uppercase;
+}
+
+h1
+{
+    font-size:5.063rem;
+}
+h2
+{
+    font-size:3.375rem;
+}
+h3
+{
+    font-size:2.25rem;
+}
+h4
+{
+    font-size:1.5rem;
+}
