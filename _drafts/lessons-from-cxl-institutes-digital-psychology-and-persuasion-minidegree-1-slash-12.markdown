@@ -1,7 +1,7 @@
 ---
 title: Lessons from CXL Institute’s Digital Psychology and Persuasion Minidegree (1
   of 12)
-date: 2021-03-17 00:37:00 Z
+date: 2021-03-17 08:37:00 +08:00
 categories:
 - digital psychology
 tags:
@@ -34,19 +34,19 @@ This course is by Peep Laja, founder of CXL. In 9 lessons, he teaches us how we 
 
 ### Cialdini’s 7 Principles of Persuasion
 
-Robert Cialdini's book *Influence* is a book that most marketers recommend, so I'm not surprised this was taught. The 7 principles are:
+Robert Cialdini's book *Influence* is a book that most marketers recommend, so I'm not surprised this was taught. I haven't read the book, but this is my understanding of the 7 principles as summarized by Laja:
 
 1. Reciprocity - we feel obliged to be nice to someone who was also nice to us;
 
 2. Commitment/consistency - we are more likely to deliver on a commitment when we publicly committed to it;
 
-3. Social Proof
+3. Social Proof - we are influenced to do what other people are doing;
 
-4. Authority
+4. Authority - we have a tendency to obey figures of authority;
 
-5. Liking;
+5. Liking - we are more persuaded by someone we like ; 
 
-6. Scarcity; and
+6. Scarcity - we are attracted to things that are in limited availability; and
 
 7. Unity (more on this, apparently, on the second track).
 
