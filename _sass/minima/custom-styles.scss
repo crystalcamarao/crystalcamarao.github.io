@@ -41,6 +41,19 @@ h4
     align-items: center;
     justify-content: center;
 }
+.emailoctopus-form-row input,
+{
+    max-width: 220px !important;
+}
+.emailoctopus-form-row-subscribe button
+{
+    background-color: #ffce00 !important;
+    color: #484d5c; 
+    font-family: inherit; 
+    font-weight:bold;
+    text-transform: uppercase;
+}
+
 .copyright
 {
     text-align: center;
