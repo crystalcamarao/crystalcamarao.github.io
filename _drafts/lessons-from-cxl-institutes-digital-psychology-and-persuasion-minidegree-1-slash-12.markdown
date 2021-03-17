@@ -2,10 +2,12 @@
 title: Lessons from CXL Institute’s Digital Psychology and Persuasion Minidegree (1/12)
 date: 2021-03-17 00:37:00 Z
 categories:
-- CXL Institute Digital Psychology and Persuasion MInidegree
+- digital psychology
+tags:
+- CXL Insitute
 ---
 
-Psychology is something any marketer would benefit to learn more about. By understanding human behavior--what people want, what people need--you are able to effectively market to them and thus persuade them. And in the digital world, psychological principles can be applied to improve websites and optimize conversions.
+Psychology is something any marketer would benefit to learn more about. By understanding human behavior--what people want, what people need, etc.--you are able to effectively market to them and thus persuade them. And in the digital world, psychological principles can be applied to improve websites and optimize conversions.
 
 I'm all for improving my skills in web design and digital marketing, and I've always been fascinated with how technology has impacted people and society. So I decided to take CXL Institute's Digital Psychology and Persuasion Minidegree. And as part of my CXL Institute Scholarship, I will be writing one article per week for the next 12 weeks regarding the lessons I've learned.
 
