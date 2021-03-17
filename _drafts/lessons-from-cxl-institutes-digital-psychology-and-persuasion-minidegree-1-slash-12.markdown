@@ -16,7 +16,7 @@ Now, I'm the kind of person who believes in lifelong learning. I'm all for impro
 
 I decided to take their Digital Psychology and Persuasion Minidegree versus their other Minidegrees for 2 main reasons:
 
-1. I want to get better at understanding people and how they think and behave digitally. This will in turn help me get better at making websites that have high conversion rates.
+1. I want to get better at understanding people and how they think and behave digitally. This will in turn help me get better at making websites and copy that have high conversion rates.
 
 2. I've always been fascinated with how technology has impacted people and society. I think that digital psychology is super duper fascinating because the world was profoundly changed by the internet and there are a gazillion things we are thankful for it, but also not thankful for it.
 
