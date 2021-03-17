@@ -34,7 +34,7 @@ This course is by Peep Laja, founder of CXL. In 9 lessons, he teaches us how we 
 
 ### Cialdini’s 7 Principles of Persuasion
 
-Robert Cialdini's book *Influence* is a book that most marketers recommend, so I'm not surprised this was taught. Laja explained Cialdini's Principles with examples.
+Robert Cialdini's book *Influence* is a book that most marketers recommend, so I'm not surprised this was taught. Laja explained Cialdini's principles with examples.
 
 ### Fogg Behavior Model
 
