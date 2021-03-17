@@ -1,5 +1,6 @@
 ---
-title: Lessons from CXL Institute’s Digital Psychology and Persuasion Minidegree (1/12)
+title: Lessons from CXL Institute’s Digital Psychology and Persuasion Minidegree (1
+  of 12)
 date: 2021-03-17 00:37:00 Z
 categories:
 - digital psychology
