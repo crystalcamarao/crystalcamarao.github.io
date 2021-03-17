@@ -1,7 +1,7 @@
 ---
 title: CXL Institute’s Digital Psychology and Persuasion Minidegree Review (Part 1
   of 12)
-date: 2021-03-17 08:37:00 +08:00
+date: 2021-03-21 08:37:00 +08:00
 categories:
 - digital psychology
 tags:
