@@ -5,17 +5,17 @@ categories:
 - CXL Institute Digital Psychology and Persuasion MInidegree
 ---
 
-Psychology is something any marketer would benefit to learn more about. By understanding human behavior--what people want, what people need--you are able to effectively market to them and thus persuade them. And in the digital world,
+Psychology is something any marketer would benefit to learn more about. By understanding human behavior--what people want, what people need--you are able to effectively market to them and thus persuade them. And in the digital world, psychological principles can be applied to improve websites and optimize conversions.
 
-The first track of this Minidegree is Psychology Foundations. This week, I finished 2 courses.
+I'm all for improving my skills in web design and digital marketing, and I've always been fascinated with how technology has impacted people and society. So I decided to take CXL Institute's Digital Psychology and Persuasion Minidegree.
+
+The first track of this Minidegree is **Psychology Foundations**. This week, I finished 2 courses.
 
 ## People & psychology
 
-This course is by , founder of CXL. If you're in the marketing world, you've probably heard of him.
+This course is by Peep Laja, founder of CXL. If you're in the marketing world, you've probably heard of him. In 9 lessons, he teaches us how we can understand people so we can market to them.
 
 ### Cialdini’s 7 Principles of Persuasion
-
-Here, 
 
 ### Fogg Behavior Model
 
@@ -33,7 +33,6 @@ Here,
 
 ### Cognitive Fluency
 
-## \
-Attention Basics
+### Attention Basics
 
-*As part of my CXL Institute Scholarship, I will be writing one article per week for the next 12 weeeks.*
+*As part of my CXL Institute Scholarship, I will be writing one article per week for the next 12 weeks.*
