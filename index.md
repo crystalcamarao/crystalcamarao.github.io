@@ -1,10 +1,6 @@
 ---
 layout: home
 ---
-
-<<<<<<< Updated upstream
-
-=======
 <div class="hero-container">
         <div class="hero">
             <div class="left">
@@ -15,4 +11,3 @@ layout: home
             </div>
         </div>
     </div>
->>>>>>> Stashed changes
