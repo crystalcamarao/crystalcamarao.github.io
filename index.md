@@ -1,6 +1,7 @@
 ---
 layout: home
 ---
+
 <div class="hero-container">
         <div class="hero">
             <div class="left">
