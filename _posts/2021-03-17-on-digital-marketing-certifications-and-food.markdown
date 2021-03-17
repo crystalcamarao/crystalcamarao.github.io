@@ -14,7 +14,7 @@ I recently got my Google Analytics Individual Qualification. Yey, right? Two yea
 
 But it doesn't end there.
 
-If you read forums they tell you nothing beats portfolio and experience (just like in the design world). What does it matter if you can cook and follow the recipe, but the food you make doesn't taste good? Results are quite probably the most important thing a digital marketer can provide. If you can show that you have increased conversions for a business by a significant amount through Google Ads, it doesn't matter so much whether you have a certification or not, although it helps.
+If you read forums they tell you nothing beats portfolio and experience (just like in the design world). What does it matter if you can cook, but the food you make doesn't taste good? Results are quite probably the most important thing a digital marketer can provide. If you can show that you have increased conversions for a business by a significant amount through Google Ads, it doesn't matter so much whether you have a certification or not, although it helps.
 
 Personally, I think certifications are a good training ground. They also serve their purpose: assure prospect employers or clients that you know your way around the (digital marketing) "kitchen". They're without a doubt worth getting, if not just to put you ahead of the competition.
 
