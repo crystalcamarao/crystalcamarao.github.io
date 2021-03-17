@@ -4,3 +4,53 @@
   1. Head over to https://realfavicongenerator.net/ to add your own favicons.
   2. Customize default _includes/custom-head.html in your source directory and insert the given code snippet.
 {% endcomment %}
+
+ <meta property="og:title" content="{% if page.title %}{{ page.title | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:site_name" content="{{ site.title }}" />
+  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+  <meta property="og:locale" content="en_US" />
+  <meta name="twitter:site" content="@crystalcamarao" />
+  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
+
+  {% if page.title %}
+  	<!-- Article specific OG data -->
+  	<meta property="og:type" content="article" />
+  	<meta property="article:published_time" content="{{page.date}}" />
+  	{% if page.modified %}
+  		<meta property="article:modified_time" content="{{page.modified}}" />
+  	{% endif %}
+  	<meta property="article:author" content="http://facebook.com/crystalbeatricecamarao" />
+    <meta property="article:publisher" content="https://www.facebook.com/crystalbeatricecamarao" />
+  	<meta property="article:section" content="{{page.vertical}}" />
+  	{% for tag in page.categories %}
+  		<meta property="article:tag" content="{{tag}}" />
+  	{% endfor %}
+	<meta name="keywords" content="{{page.categories | join: ', '}}" />
+
+  	<meta name="twitter:card" content="summary_large_image" />
+  	<meta name="twitter:creator" content="@crystalcamarao" />
+  	<meta name="twitter:title" content="{{page.title}}" />
+	{% if page.ogimagenull %}
+		<!-- no og image -->
+	{% elsif page.ogimage %}
+		<meta property="og:image" content="{{page.ogimage}}" />
+	  	<meta name="twitter:image" content="{{page.ogimage}}" />
+	  	<meta property="og:image:width" content="600" />
+	  	<meta property="og:image:height" content="315" />
+	{% elsif page.image %}
+	  	<meta property="og:image" content="{{page.image}}" />
+	  	<meta name="twitter:image" content="{{page.image}}" />
+  	{% else %}
+  		<meta property="og:image" content="/assets/CrystalCamarao.jpeg" />
+  		<meta name="twitter:image" content="/assets/CrystalCamarao.jpeg" />
+  	{% endif %}
+
+  {% else %}
+  	<!-- OG data for homepage -->
+  	<meta property="og:image" content="/assets/CrystalCamarao.jpeg" />
+  	<meta property="og:type" content="website" />
+  	<meta name="twitter:card" content="summary" />
+  	<meta name="twitter:title" content="{{site.title}}" />
+  	<meta name="twitter:image" content="/assets/CrystalCamarao.jpeg" />
+  {% endif %}
