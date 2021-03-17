@@ -120,4 +120,4 @@ Lorem ipsum
 
 Lorem ipsum
 
-*As part of my CXL Institute Scholarship, I will be writing one article each week for the next 12 weeks. Join me for the ride.*
+*As part of my CXL Institute Scholarship, I will be writing one article each week for the next 12 weeks.*
