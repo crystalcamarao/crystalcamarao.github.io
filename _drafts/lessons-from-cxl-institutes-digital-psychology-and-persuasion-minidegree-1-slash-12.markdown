@@ -34,6 +34,22 @@ This course is by Peep Laja, founder of CXL. In 9 lessons, he teaches us how we 
 
 ### Cialdini’s 7 Principles of Persuasion
 
+Robert Cialdini's book *Influence* is a book that most marketers recommend, so I'm not surprised this was taught. The 7 principles are:
+
+1. Reciprocity - we feel obliged to be nice to someone who was also nice to us;
+
+2. Commitment/consistency - we are more likely to deliver on a commitment when we publicly committed to it;
+
+3. Social Proof
+
+4. Authority
+
+5. Liking;
+
+6. Scarcity; and
+
+7. Unity (more on this, apparently, on the second track).
+
 ### Fogg Behavior Model
 
 ### Lessons from Neuromarketing
