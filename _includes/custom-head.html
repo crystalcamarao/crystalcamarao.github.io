@@ -11,6 +11,7 @@
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
   <meta property="og:locale" content="en_US" />
   <meta name="twitter:site" content="@crystalcamarao" />
+<meta property="twitter:domain" content="crystal.ph">
   <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
 
   {% if page.title %}
@@ -42,15 +43,15 @@
 	  	<meta property="og:image" content="{{page.image}}" />
 	  	<meta name="twitter:image" content="{{page.image}}" />
   	{% else %}
-  		<meta property="og:image" content="{{ site.baseurl }}/assets/CrystalCamarao.jpeg" />
-  		<meta name="twitter:image" content="{{ site.baseurl }}/assets/CrystalCamarao.jpeg" />
+  		<meta property="og:image" content="{{site.baseurl}}/assets/CrystalCamarao.jpeg" />
+  		<meta name="twitter:image" content="{{site.baseurl}}/assets/CrystalCamarao.jpeg" />
   	{% endif %}
 
   {% else %}
   	<!-- OG data for homepage -->
-  	<meta property="og:image" content="{{ site.baseurl }}/assets/CrystalCamarao.jpeg" />
+  	<meta property="og:image" content="{{site.baseurl}}/assets/CrystalCamarao.jpeg" />
   	<meta property="og:type" content="website" />
   	<meta name="twitter:card" content="summary" />
   	<meta name="twitter:title" content="{{site.title}}" />
-  	<meta name="twitter:image" content="{{ site.baseurl }}/assets/CrystalCamarao.jpeg" />
+  	<meta name="twitter:image" content="{{site.baseurl}}/assets/CrystalCamarao.jpeg" />
   {% endif %}
