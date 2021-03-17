@@ -34,38 +34,82 @@ This course is by Peep Laja, founder of CXL. In 9 lessons, he teaches us how we 
 
 ### Cialdini’s 7 Principles of Persuasion
 
-Robert Cialdini's book *Influence* is a book that most marketers recommend, so I'm not surprised this was taught. I haven't read the book, but this is my understanding of the 7 principles as summarized by Laja:
-
-1. Reciprocity - we feel obliged to be nice to someone who was also nice to us;
-
-2. Commitment/consistency - we are more likely to deliver on a commitment when we publicly committed to it;
-
-3. Social Proof - we are influenced to do what other people are doing;
-
-4. Authority - we have a tendency to obey figures of authority;
-
-5. Liking - we are more persuaded by someone we like ; 
-
-6. Scarcity - we are attracted to things that are in limited availability; and
-
-7. Unity (more on this, apparently, on the second track).
+Robert Cialdini's book *Influence* is a book that most marketers recommend, so I'm not surprised this was taught. I haven't read the book, but Laja explained them each with examples.
 
 ### Fogg Behavior Model
 
+Lorem ipsum
+
 ### Lessons from Neuromarketing
+
+Lorem ipsum
 
 ### A Big List of Persuasion Techniques
 
+Lorem ipsum
+
 ### Cognitive Biases – We’re All Affected By Them
+
+Lorem ipsum
 
 ### Emotional and Rational Decision Making
 
+Lorem ipsum
+
 ### How People View Websites
+
+Lorem ipsum
 
 ### E-commerce Product Page Study: Value Perceptions and Image size
 
+Lorem ipsum
+
 ### Cognitive Fluency
 
-### Attention Basics
+Lorem ipsum
 
-*As part of my CXL Institute Scholarship, I will be writing one article per week for the next 12 weeks.*
+## Attention Basics
+
+In this course, Roger Dooley walks us through how to get attention and maintain it.
+
+### Oxytocin and First Impressions
+
+Lorem ipsum
+
+### First Impressions
+
+Lorem ipsum
+
+### Internal vs External Factors
+
+Lorem ipsum
+
+### Cognitive Load
+
+Lorem ipsum
+
+### How Distracting are Banner Advertisements on Home Pages? A Case Study
+
+Lorem ipsum
+
+### Visual Cue Case Study: Lead Generation Form on a Landing Page
+
+Lorem ipsum
+
+### Eye Gaze Patterns
+
+Lorem ipsum
+
+### Understanding Online Reading Patterns
+
+Lorem ipsum
+
+### Case Study: Online Reading Patterns
+
+Lorem ipsum
+
+### User Reading Patterns of the New York Times – 2004 vs. 2016
+
+Lorem ipsum
+
+## Wrap Up
