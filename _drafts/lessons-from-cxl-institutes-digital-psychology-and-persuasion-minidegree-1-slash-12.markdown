@@ -12,7 +12,7 @@ Psychology is something any marketer would benefit to learn more about. By under
 
 Psychological principles can be applied if you want to improve websites and optimize conversions. Obviously, this is something I want to do. But having no psychology background (unless you count the 3-unit Psychology 101 course I took back in college), I didn't know any of these principles.
 
-Now, I'm the kind of person who believes in lifelong learning. I'm all for improving my skills in web design and digital marketing. And when it came to learning providers, CXL Institute was [an obvious choice](https://cxl.com/institute/reviews/).
+Now, I'm the kind of person who believes in lifelong learning. I'm all for improving my skills in web design and digital marketing. And when it came to learning providers, CXL Institute was [an obvious choice](https://cxl.com/institute/reviews/#_r_crystal80).
 
 I decided to take their Digital Psychology and Persuasion Minidegree versus their other Minidegrees for 2 main reasons:
 
