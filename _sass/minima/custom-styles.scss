@@ -1,17 +1,18 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
-@import url('https://fonts.googleapis.com/css2?family=Cardo&family=Oswald&family=Comfortaa&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@500&family=Open+Sans:wght@300&family=Comfortaa&display=swap');
 
 body {
- font-family: 'Cardo', serif;
+ font-family: 'Open Sans', sans-serif;
+ font-weight: 300;
 }
 a
 {
     font-weight:bold;
 }
 h1, h2, h3, h4, h5, h6 {
- font-family: 'Oswald', sans-serif;
- text-transform: uppercase;
+font-family: 'Archivo', sans-serif;
+ font-weight: 500;
 }
 
 h1
@@ -45,6 +46,7 @@ appearance: none;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    padding: $spacing-unit;
 }
 .emailoctopus-form-row input,
 {
@@ -52,8 +54,7 @@ appearance: none;
 }
 .emailoctopus-form-row-subscribe button
 {
-    background-color: #ffce00 !important;
-    color: #484d5c; 
+    background-color: $link-base-color !important;
     font-family: inherit; 
     font-weight:bold;
     text-transform: uppercase;
@@ -70,6 +71,7 @@ appearance: none;
     display: flex;
      align-items: center;
   justify-content: center;
+    padding: $spacing-unit;
 }
 .left
 {
