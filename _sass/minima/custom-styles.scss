@@ -85,10 +85,17 @@ appearance: none;
     justify-content: flex-start;
     padding: $spacing-unit/2;
 }
+.picture-div
+{
+    border-radius: 50%;
+    background-color: $text-color;
+    padding: $spacing-unit/8;
+}
 .picture
 {
     border-radius: 50%;
     width: 250px;
+    
 }
 @media (max-width: 800px) {
   .hero {
