@@ -11,9 +11,7 @@ collections:
 author:
   name: Crystal Camarao
   email: me@crystal.ph
-description: 'Personal blog of Crystal Camarao
-
-'
+description: 'Personal blog of Crystal Camarao'
 show_excerpts: true
 minima:
   date_format: "%b %-d, %Y"
