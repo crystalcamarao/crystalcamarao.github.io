@@ -14,7 +14,7 @@ Psychological principles can be applied if you want to improve websites and opti
 
 Now, I'm the kind of person who believes in lifelong learning. I'm all for improving my skills in web design and digital marketing. And when it came to learning providers, [CXL Institute was an obvious choice](https://cxl.com/institute/reviews/#_r_crystal80).
 
-I decided to take their [Digital Psychology and Persuasion Minidegree](http://cxl.com/institute/#_r_crystal80) versus their other Minidegrees for 2 main reasons:
+I decided to take their [Digital Psychology and Persuasion Minidegree](https://cxl.com/institute/programs/digital-psychology-persuasion-training/#_r_crystal80) versus their other Minidegrees for 2 main reasons:
 
 1. I want to get better at understanding people and how they think and behave digitally. This will in turn help me get better at making websites and copy that have high conversion rates.
 
