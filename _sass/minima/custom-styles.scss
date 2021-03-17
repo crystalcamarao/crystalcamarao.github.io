@@ -34,3 +34,49 @@ h4
 {
     font-family: 'Comfortaa', cursive;
 }
+.emailoctopus
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.copyright
+{
+    text-align: center;
+    font-size: $base-font-size*0.75;
+    padding: $spacing-unit/4;
+}
+.hero
+{
+    display: flex;
+     align-items: center;
+  justify-content: center;
+}
+.left
+{
+    flex: 25%;
+    justify-content: flex-end;
+    padding: $spacing-unit/2;
+}
+.right
+{
+    flex: 75%;
+    justify-content: flex-start;
+    padding: $spacing-unit/2;
+}
+.picture
+{
+    border-radius: 50%;
+    width: 250px;
+}
+@media (max-width: 800px) {
+  .hero {
+    flex-direction: column;
+      align-items: flex-start;
+  }
+    .picture
+    {
+        width: 150px;
+    }
+}

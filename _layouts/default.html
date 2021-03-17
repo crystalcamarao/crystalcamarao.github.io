@@ -10,9 +10,12 @@
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         {{ content }}
-      </div>
+          
+          {%- include subscribe.html -%}
+          
+          </div>
     </main>
-
+      
     {%- include footer.html -%}
 
   </body>

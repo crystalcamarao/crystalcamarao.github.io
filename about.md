@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 
-I love [making websites](https://estel.design), but there's more to me than that. I go to spinning class regularly, [travel](https://instagram.com/ohtheplacescrystalwillgo) as much as possible, and try to [read](https://www.goodreads.com/crystalcamarao) and learn new things daily. I’m not one to turn down discussing tech, watching sci-fi/fantasy, and most especially, [drinking a pint of IPA](https://untappd.com/user/crystalbeatrice). I'm an aspiring dog mom, and will adopt a dog someday when the time is right.
+I love what I do, but there's more to me than that. I go to spinning class regularly, [travel](https://instagram.com/ohtheplacescrystalwillgo) as much as possible, and try to [read](https://www.goodreads.com/crystalcamarao) and learn new things daily. I’m not one to turn down discussing tech, watching sci-fi/fantasy, and most especially, [drinking a pint of IPA](https://untappd.com/user/crystalbeatrice). I'm an aspiring dog mom, and will adopt a dog someday when the time is right.
 
 Random facts about me:
 
