@@ -10,7 +10,7 @@ tags:
 
 Psychology is something any marketer would benefit to learn more about. By understanding human behavior--what people want, what people need, etc.--you are able to effectively market to them and thus persuade them. And in today's digital world, psychological principles can be applied to improve websites and optimize conversions.
 
-I'm all for improving my skills in web design and digital marketing, and I've always been fascinated with how technology has impacted people and society. So I decided to take CXL Institute's Digital Psychology and Persuasion Minidegree. And as part of my CXL Institute Scholarship, I will be writing one article per week for the next 12 weeks regarding the lessons I've learned.
+I'm all for improving my skills in web design and digital marketing, and I've always been fascinated with how technology has impacted people and society. So I decided to take CXL Institute's Digital Psychology and Persuasion Minidegree. Allow me to share my lessons as I go through it. 
 
 The first track of this Minidegree is **Psychology Foundations**. This week, I finished 2 courses.
 
@@ -37,3 +37,5 @@ This course is by Peep Laja, founder of CXL. In 9 lessons, he teaches us how we 
 ### Cognitive Fluency
 
 ### Attention Basics
+
+*As part of my CXL Institute Scholarship, I will be writing one article per week for the next 12 weeks.*
