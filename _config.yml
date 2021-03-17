@@ -1,5 +1,5 @@
 ---
-title: Personal blog of Crystal Camarao
+title: Crystal Camarao
 timezone: Asia/Hong_Kong
 collections:
   posts:
@@ -10,10 +10,8 @@ collections:
     output: true
 author:
   name: Crystal Camarao
-  email: hello@crystal.ph
-description: 'Thoughts on web design, digital marketing, and everything in between.
-
-'
+  email: me@crystal.ph
+description: 
 show_excerpts: true
 minima:
   date_format: "%b %-d, %Y"
