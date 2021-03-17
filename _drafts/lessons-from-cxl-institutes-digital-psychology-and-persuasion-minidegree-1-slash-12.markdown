@@ -18,7 +18,7 @@ I'm all for improving my skills in web design and digital marketing. CXL Institu
 
 I've very excited to do this Minidegree. Allow me to share the lessons I've learned as I go through it.
 
-The first track of this Minidegree is **Psychology Foundations**, where psychological principles are that drive human behavior are taught. It attempts to answer the following questions:
+The first track of this Minidegree is **Psychology Foundations**, where psychological principles that drive human behavior are taught. It attempts to answer the following questions:
 
 * How can we capture and hold attention?
 
