@@ -1,6 +1,6 @@
 ---
 title: Personal blog of Crystal Camarao
-timezone: UTC
+timezone: Asia/Hong_Kong
 collections:
   posts:
     title: Posts
@@ -10,7 +10,7 @@ collections:
     output: true
 author:
   name: Crystal Camarao
-  email: crystal@estel.design
+  email: hello@crystal.ph
 description: 'Thoughts on web design, digital marketing, and everything in between.
 
 '
