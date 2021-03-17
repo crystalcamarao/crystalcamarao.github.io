@@ -1,6 +1,7 @@
 ---
 layout: home
 ---
+
 <<<<<<< Updated upstream
 
 =======

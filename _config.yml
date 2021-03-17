@@ -1,7 +1,6 @@
-<<<<<<< Updated upstream
 ---
 title: Crystal Camarao
-timezone: Asia/Hong_Kong
+timezone: UTC
 collections:
   posts:
     title: Posts
@@ -9,34 +8,3 @@ collections:
   uploads:
     title: Uploads
     output: true
-author:
-  name: Crystal Camarao
-  email: me@crystal.ph
-description: 
-show_excerpts: true
-=======
-title: Crystal Camarao
-author:
-  name: Crystal Camarao
-  email: me@crystal.ph
-description: > # this means to ignore newlines until "show_excerpts:"
- Thoughts on web design, digital marketing, and everything in between.
-
-show_excerpts: true # set to true to show excerpts on the homepage
-
-# Minima date format
-# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
->>>>>>> Stashed changes
-minima:
-  date_format: "%b %-d, %Y"
-  skin: modified
-  social_links:
-    twitter: crystalcamarao
-    github: crystalcamarao
-    linkedin: crystalcamarao
-    telegram: crystalcamarao
-theme: minima
-google_analytics: UA-81646954-2
-plugins:
-- jekyll-feed
-- jekyll-seo-tag
