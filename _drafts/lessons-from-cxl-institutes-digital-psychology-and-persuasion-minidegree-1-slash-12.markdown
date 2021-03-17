@@ -8,8 +8,8 @@ tags:
 - CXL Insitute
 ---
 
-Psychology is something any marketer would benefit to learn more about. By understanding human behavior--what people want, what people need, etc.--you are able to effectively market to them and thus persuade them. \
-\
+Psychology is something any marketer would benefit to learn more about. By understanding human behavior--what people want, what people need, etc.--you are able to effectively market to them and thus persuade them.
+
 In today's digital world, psychological principles can be applied if you want to improve websites and optimize conversions. Having no psychology background (unless you count the 3-unit Psychology 101 course I took back in college), I don't know any of these principles.
 
 Now, I'm the kind of person who believes in lifelong learning. I'm all for improving my skills in web design and digital marketing. And when it came to learning providers, CXL Institute was an obvious choice.
