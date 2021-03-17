@@ -113,3 +113,7 @@ Lorem ipsum
 Lorem ipsum
 
 ## Wrap Up
+
+Lorem ipsum
+
+*As part of my CXL Institute Scholarship, I will be writing one article each week for the next 12 weeks.*
