@@ -14,7 +14,7 @@ In today's digital world, psychological principles can be applied if you want to
 
 Now, I'm the kind of person who believes in lifelong learning. I'm all for improving my skills in web design and digital marketing. And when it came to learning providers, CXL Institute was an obvious choice.
 
-I decided to take their Digital Psychology and Persuasion Minidegree in particular for 2 main reasons:
+I decided to take their Digital Psychology and Persuasion Minidegree versus the other Minidegrees for 2 main reasons:
 
 1. I want to get better at understanding people and how they think and behave digitally. This will in turn help me get better at making websites that have high conversion rates.
 
