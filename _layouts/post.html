@@ -18,6 +18,17 @@ layout: default
           {{ mdate | date: date_format }}
         </time>
       {%- endif -%}
+        <div class="post-categories">
+  {% if post %}
+    {% assign categories = post.categories %}
+  {% else %}
+    {% assign categories = page.categories %}
+  {% endif %}
+  {% for category in categories %}
+  <a href="{{site.baseurl}}/category/{{category|remove:' '}}">{{category}}</a>
+  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}
+</div>
       {%- if page.author -%}
         • {% for author in page.author %}
           <span itemprop="author" itemscope itemtype="http://schema.org/Person">
