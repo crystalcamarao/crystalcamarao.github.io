@@ -15,68 +15,17 @@ So I thought I'd share my own steps:
 
 1. Create a layout for your category pages. Save it as **category.html** to your **_layouts** folder.
 
-<div class="categories">
-<h2 class="category-title">
-Topic: {{ page.category-name }}
-</h2>
-<div class="posts">
-<ul class="post-list">
-{% if site.date_format %}
-{{ post.date | date: site.date_format }}
-{% else %}
-{{ post.date | date: "%b %-d, %Y" }}
-{% endif %}
-{% for post in site.categories\[page.category-name\] %}
-<li>
-<span class="post-meta">{{ post.date | date: date_format }}</span>
-<h3>
-<a class="post-link" href="{{ post.url | relative_url }}">
-{{ post.title | escape }}
-</a>
-</h3>
-{%- if site.show_excerpts -%}
-{{ post.excerpt }}
-{%- endif -%}
-</li>
-{%- endfor -%}
-</ul>
-</div>
-</div>
+`<div class="categories"> <h2 class="category-title"> Topic: {{ page.category-name }} </h2> <div class="posts"> <ul class="post-list"> {% if site.date_format %} {{ post.date | date: site.date_format }} {% else %} {{ post.date | date: "%b %-d, %Y" }} {% endif %} {% for post in site.categories\[page.category-name\] %} <li> <span class="post-meta">{{ post.date | date: date_format }}</span> <h3> <a class="post-link" href="{{ post.url | relative_url }}"> {{ post.title | escape }} </a> </h3> {%- if site.show_excerpts -%} {{ post.excerpt }} {%- endif -%} </li> {%- endfor -%} </ul> </div> </div>`
 
 2\. Make a category page for every category. Save this to your root folder.
 
----
-
-layout: category
-category-name: digital marketing
-permalink: "/category/digitalmarketing"
-
----
+`--- layout: category category-name: digital marketing permalink: "/category/digitalmarketing"
+---`
 
 3\. BONUS (Optional): List and link to each category.
 
-<h3 class="category-topic">Topics</h3>
-<ul>
-    {% assign sortedCategories = site.categories | sort %}
-    {% for category in sortedCategories %}
-     {% assign cat4url = category[0] | remove:' ' | downcase %}
-     <li><a class="category-item" href="{{site.baseurl}}/category/{{cat4url}}">
-        {{category[0]}}
-     </a>
-         </li>
-{% endfor %}
-    </ul>
+`<h3 class="category-topic">Topics</h3> <ul> {% assign sortedCategories = site.categories | sort %} {% for category in sortedCategories %} {% assign cat4url = category[0] | remove:' ' | downcase %} <li><a class="category-item" href="{{site.baseurl}}/category/{{cat4url}}"> {{category[0]}} </a> </li> {% endfor %} </ul>`
 
 4\. BONUS (Optional): Show the categories of each post by pasting this in the **post.html** layout page.
 
-<div class="post-categories">
-  {% if post %}
-    {% assign categories = post.categories %}
-  {% else %}
-    {% assign categories = page.categories %}
-  {% endif %}
-  {% for category in categories %}
-  <a href="{{site.baseurl}}/category/{{category|remove:' '}}">{{category}}</a>
-  {% unless forloop.last %}&nbsp;{% endunless %}
-  {% endfor %}
-</div>
+`<div class="post-categories"> {% if post %} {% assign categories = post.categories %} {% else %} {% assign categories = page.categories %} {% endif %} {% for category in categories %} <a href="{{site.baseurl}}/category/{{category|remove:' '}}">{{category}}</a> {% unless forloop.last %}&nbsp;{% endunless %} {% endfor %} </div>`
