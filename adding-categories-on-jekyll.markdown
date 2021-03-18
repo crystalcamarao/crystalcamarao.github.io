@@ -12,39 +12,38 @@ So I thought I'd share my own steps:
 
 1. Create a layout for your category pages. Save it as **category.html** to your **_layouts** folder.
 
-`---
+\`---
 layout: default
+
 ---
 
 <div class="categories">
-    <h1 class="category-title">Topic: {{ page.category-name }}</h1>
-    <div class="posts">
-        {% for post in site.categories\[page.category-name\] %}
-        <div class="post">
-            <p class="post-meta">
-                {% if site.date_format %}
-                {{ post.date | date: site.date_format }}
-                {% else %}
-                {{ post.date | date: "%b %-d, %Y" }}
-                {% endif %}
-            </p>
-            <a href="{{ post.url | relative_url }}" class="post-link">
-            <h3 class="post-title">
-                {{ post.title }}
-            </h3>
-            </a>
-            <span class="post-summary">
-                {{ post.excerpt }}
-            </span>
-        </div>
-        {%- endfor -%}
-    </div>
-</div>`
+<h1 class="category-title">Topic: {{ page.category-name }}</h1>
+<div class="posts">
+{% for post in site.categories\[page.category-name\] %}
+<div class="post">
+<p class="post-meta">
+{% if site.date_format %}
+{{ post.date | date: site.date_format }}
+{% else %}
+{{ post.date | date: "%b %-d, %Y" }}
+{% endif %}
+</p>
+<a href="{{ post.url | relative_url }}" class="post-link">
+<h3 class="post-title">
+{{ post.title }}
+</h3>
+</a>
+<span class="post-summary">
+{{ post.excerpt }}
+</span>
+</div>
+{%- endfor -%}
+</div>
+</div>\`
 
 2\.  Make a category page for every category. Save this to your root folder. Important: **category-name** is case-sensitive.
 
-`---
-layout: category
+`--- layout: category
 category-name: digital marketing
-permalink: "/category/digitalmarketing"
----`
+permalink: "/category/digitalmarketing" ---`
