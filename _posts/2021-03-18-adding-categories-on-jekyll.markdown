@@ -55,4 +55,28 @@ permalink: "/category/digitalmarketing"
 
 3\. BONUS (Optional): List and link to each category.
 
-4\. BONUS (Optional): Show the categories of each post.
+<h3 class="category-topic">Topics</h3>
+<ul>
+    {% assign sortedCategories = site.categories | sort %}
+    {% for category in sortedCategories %}
+     {% assign cat4url = category[0] | remove:' ' | downcase %}
+     <li><a class="category-item" href="{{site.baseurl}}/category/{{cat4url}}">
+        {{category[0]}}
+     </a>
+         </li>
+{% endfor %}
+    </ul>
+
+4\. BONUS (Optional): Show the categories of each post by pasting this in the **post.html** layout page.
+
+<div class="post-categories">
+  {% if post %}
+    {% assign categories = post.categories %}
+  {% else %}
+    {% assign categories = page.categories %}
+  {% endif %}
+  {% for category in categories %}
+  <a href="{{site.baseurl}}/category/{{category|remove:' '}}">{{category}}</a>
+  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}
+</div>
