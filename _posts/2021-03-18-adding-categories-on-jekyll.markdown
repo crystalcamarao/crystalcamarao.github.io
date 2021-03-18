@@ -46,7 +46,13 @@ layout: default
 
 2\. Make a category page for every category. Save this to your root folder.
 {% raw %}
---- layout: category category-name: digital marketing permalink: "/category/digitalmarketing" ---`
+---
+permalink: "/category/digitalmarketing"
+layout: category
+category-name: digital marketing
+---
+
+
 {% endraw %}
 
 3\. BONUS (Optional): List and link to each category.
