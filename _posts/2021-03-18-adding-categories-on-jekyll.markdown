@@ -1,5 +1,5 @@
 ---
-title: Adding Categories on Jekyll
+title: Adding Category Pages on Jekyll
 date: 2021-03-18 10:13:00 +08:00
 categories:
 - web design
