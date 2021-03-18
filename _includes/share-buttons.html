@@ -1,7 +1,31 @@
 <div class="share-page">
+    
+      <script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId            : '386459599144650',
+      autoLogAppEvents : true,
+      xfbml            : true,
+      version          : 'v10.0'
+    });
+  };
+</script>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js"></script>
+
+    
     Share this on &rarr;
     <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter">Twitter</a>
-    <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook">Facebook</a>
-    <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }} rel="nofollow" target="_blank" title="Share on LinkedIn">LinkedIn</a>
+    <a id="shareBtn">Facebook</a>
+    
+      <script>
+document.getElementById('shareBtn').onclick = function() {
+  FB.ui({
+    display: 'popup',
+    method: 'share',
+    href: 'https://developers.facebook.com/docs/',
+  }, function(response){});
+}
+</script>
+    
     <a href="http://pinterest.com/pin/create/button/?url={{ site.url }}{{ page.url }}&description={{ page.title }}" rel="nofollow" target="_blank" title="Share on Pinterest">Pinterest</a>
 </div>
