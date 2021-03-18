@@ -67,5 +67,16 @@ permalink: "/category/digitalmarketing"
 {% endfor %}
     </ul>
 
-4\. BONUS (Optional): Show the categories of each post.
+4\. BONUS (Optional): Show the categories of each post by pasting this in the **post.html** layout page.
 
+<div class="post-categories">
+  {% if post %}
+    {% assign categories = post.categories %}
+  {% else %}
+    {% assign categories = page.categories %}
+  {% endif %}
+  {% for category in categories %}
+  <a href="{{site.baseurl}}/category/{{category|remove:' '}}">{{category}}</a>
+  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}
+</div>
