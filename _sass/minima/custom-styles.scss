@@ -110,6 +110,10 @@ appearance: none;
         margin-left: 10px;
     }
 }
+.post-categories
+{
+    text-transform: uppercase;
+}
 @media (max-width: 800px) {
   .hero {
     flex-direction: column;
