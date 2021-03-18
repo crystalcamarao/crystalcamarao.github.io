@@ -77,7 +77,7 @@ category-name: digital marketing
     {% assign categories = page.categories %}
   {% endif %}
   {% for category in categories %}
-  <a href="{{site.baseurl}}/category/{{category|remove:' '}}">{{category}}</a>
+  <a href="{{site.baseurl}}/category/{{category|remove:' '| downcase}}">{{category}}</a>
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
 </div>
