@@ -1,22 +1,26 @@
 ---
-title: Lessons from CXL Institute’s Digital Psychology and Persuasion Minidegree (1
+title: CXL Institute’s Digital Psychology and Persuasion Minidegree Review (Part 1
   of 12)
-date: 2021-03-17 08:37:00 +08:00
+date: 2021-03-21 16:37:00 +08:00
 categories:
 - digital psychology
 tags:
 - CXL Insitute
 ---
 
-Psychology is something any marketer would benefit to learn more about. By understanding human behavior--what people want, what people need, etc.--you are able to effectively market to them and thus persuade them. And in today's digital world, psychological principles can be applied to improve websites and optimize conversions.
+Psychology is something any marketer would benefit to learn more about. By understanding human behavior--what people want, what people need, etc.--you are able to effectively market to them and thus persuade them. I think this is especially true today in the digital world because of all the noise constantly trying to grab our attention.
 
-Now, I'm the kind of person who believes in lifelong learning. I'm all for improving my skills in web design and digital marketing. When it came to learning providers, CXL Institute was an obvious choice, and I decided to take the Digital Psychology and Persuasion Minidegree in particular for 2 main reasons:
+Psychological principles can be applied if you want to improve websites and optimize conversions. Obviously, this is something I want to do. But having no psychology background (unless you count the 3-unit Psychology 101 course I took back in college), I didn't know any of these principles.
 
-1. I want to get better at understanding people and how they think and behave digitally. This will in turn help me get better at making websites that have high conversion rates.
+Now, I'm the kind of person who believes in lifelong learning. I'm all for improving my skills in web design and digital marketing. And when it came to learning providers, [CXL Institute was an obvious choice](https://cxl.com/institute/reviews/#_r_crystal80).
+
+I decided to take their [Digital Psychology and Persuasion Minidegree](https://cxl.com/institute/programs/digital-psychology-persuasion-training/#_r_crystal80) versus their other Minidegrees for 2 main reasons:
+
+1. I want to get better at understanding people and how they think and behave digitally. This will in turn help me get better at making websites and copy that have high conversion rates.
 
 2. I've always been fascinated with how technology has impacted people and society. I think that digital psychology is super duper fascinating because the world was profoundly changed by the internet and there are a gazillion things we are thankful for it, but also not thankful for it.
 
-I've very excited to do this Minidegree. Allow me to share the lessons I've learned as I go through it.
+I've very excited to do this Minidegree. Allow me to share my thoughts on it as I go through it.
 
 The first track of this Minidegree is **Psychology Foundations**, where psychological principles that drive human behavior are taught. It attempts to answer the following questions:
 
@@ -34,7 +38,7 @@ This course is by Peep Laja, founder of CXL. In 9 lessons, he teaches us how we 
 
 ### Cialdini’s 7 Principles of Persuasion
 
-Robert Cialdini's book *Influence* is a book that most marketers recommend, so I'm not surprised this was taught. Laja explained Cialdini's principles with examples.
+Robert Cialdini's book *Influence* is a book that most marketers recommend, so I'm not surprised this was taught. Laja explained Cialdini's principles with relevant, actionable examples.
 
 ### Fogg Behavior Model
 
@@ -116,4 +120,4 @@ Lorem ipsum
 
 Lorem ipsum
 
-*As part of my CXL Institute Scholarship, I will be writing one article each week for the next 12 weeks.*
+*As part of my CXL Institute Scholarship, I will be writing one article each week for the next 12 weeks. Join me for the ride.*
