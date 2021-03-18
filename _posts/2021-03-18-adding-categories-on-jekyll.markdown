@@ -53,4 +53,6 @@ permalink: "/category/digitalmarketing"
 
 ---
 
-3\. BONUS (Optional): Show the categories of each post.
+3\. BONUS (Optional): List and link to each category.
+
+4\. BONUS (Optional): Show the categories of each post.
