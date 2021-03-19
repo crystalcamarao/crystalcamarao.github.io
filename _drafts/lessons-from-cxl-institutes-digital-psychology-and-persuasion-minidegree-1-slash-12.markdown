@@ -18,7 +18,7 @@ I decided to take their [Digital Psychology and Persuasion Minidegree](https://c
 
 1. I want to get better at understanding people and how they think and behave digitally. This will in turn help me get better at making websites and copy and get high conversion rates.
 
-2. I've always been fascinated with how technology has impacted people and society. I think that digital psychology is super duper fascinating because the world was profoundly changed by the internet and there are a gazillion things we are thankful for it, but also not thankful for it.
+2. I've always been fascinated with how technology has impacted people and society. I think that digital psychology is super duper interesting because the world was profoundly changed by the internet and there are a gazillion things we are thankful for it, but also not thankful for it.
 
 I've excited to do this Minidegree. And since I was blessed enough to be given a scholarship, I will be writing one article per week for the next twelve weeks. Allow me to share my thoughts as I go through it.
 
