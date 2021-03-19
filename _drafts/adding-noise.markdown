@@ -7,4 +7,4 @@ categories:
 
 I committed to writing a blog post every other day because I want to practice writing. One thing I constantly try to ask is whether I'm adding noise or not. As in, am I actually providing content that provides value to anyone? Or is it just noise?
 
-Today, we are all bombarded with a ton of content.
+Today, we are all bombarded with a ton of content. So many things are trying to grab our attention.
