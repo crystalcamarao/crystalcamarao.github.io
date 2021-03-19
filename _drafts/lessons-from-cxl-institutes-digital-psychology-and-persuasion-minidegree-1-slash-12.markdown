@@ -20,7 +20,7 @@ Psychology is something any marketer or designer would benefit to learn more abo
 
 Having no psychology background (unless you count the three-unit Psychology 101 course I took back in college), I didn't know much about the psychological principles you can apply to improve websites and optimize for conversions.
 
-I'm currently trying to change that with the help of this Minidegree. I'm really excited to be doing it. And since I was given a scholarship, I will be writing one article per week for the next twelve weeks about it. Allow me to share my thoughts as I go through it.
+I'm currently trying to change that with the help of this Minidegree. I'm really excited to be doing it. And since I was given a scholarship, I will be writing one article per week for the next twelve weeks about it. Allow me to share my thoughts on it as I go through it.
 
 The first track of this Minidegree is **Psychology Foundations**, where psychological principles that drive human behavior are taught. It attempts to answer the following questions:
 
@@ -42,7 +42,7 @@ Robert Cialdini's book *Influence* is a book that most marketers recommend, so I
 
 ### Fogg Behavior Model
 
-Lorem ipsum
+Laja then explained Dr. BJ Fogg's research on credibility and behavioral design. The $300 million dollar button story was particularly interesting for me. Moral of the story: enable guest checkout!
 
 ### Lessons from Neuromarketing
 
