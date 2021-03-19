@@ -20,7 +20,7 @@ I decided to take their [Digital Psychology and Persuasion Minidegree](https://c
 
 2. I've always been fascinated with how technology has impacted people and society. I think that digital psychology is super duper interesting because the world was profoundly changed by the internet and there are a gazillion things we are thankful for it, but also not thankful for it.
 
-I've excited to do this Minidegree. And since I was blessed enough to be given a scholarship, I will be writing one article per week for the next twelve weeks. Allow me to share my thoughts as I go through it.
+I've excited to do this Minidegree. And since I was given a scholarship, I will be writing one article per week for the next twelve weeks. Allow me to share my thoughts as I go through it.
 
 The first track of this Minidegree is **Psychology Foundations**, where psychological principles that drive human behavior are taught. It attempts to answer the following questions:
 
