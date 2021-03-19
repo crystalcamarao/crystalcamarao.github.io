@@ -7,6 +7,7 @@ categories:
 tags:
 - homepage
 - landing page
+- StoryBrand
 ---
 
 One of my biggest pet peeves as a web designer is when someone asks me to make a landing page when in fact what they want is a homepage, or vice versa. I don't take it against them, but I usually feel too polite to explain it to them so I just let them keep calling it whatever they want to and then help them achieve what they really want to do. If I could, though, here's what I'll tell them:
