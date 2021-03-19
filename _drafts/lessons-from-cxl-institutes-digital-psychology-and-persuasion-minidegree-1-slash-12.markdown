@@ -119,3 +119,5 @@ Lorem ipsum
 ## Wrap Up
 
 Lorem ipsum
+
+*If you’re considering taking CXL Institute courses, please support me by [signing up using my affiliate link](http://cxl.com/institute/#_r_crystal80).*
