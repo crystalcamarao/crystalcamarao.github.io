@@ -4,11 +4,12 @@ date: 2021-03-19 14:22:00 +08:00
 categories:
 - freelancing
 - writing
+- productivity
 tags:
 - Notion
 ---
 
-*I wrote this as a short writing task for two potential writing gigs (both were for tech verticals). I got both of them, and ended up accepting one of them. I thought I'd share this considering how popular Notion is right now. Personally, I use Bonsai for my freelancing business but I want to use Notion for my personal needs.*
+*I wrote this as a short writing task for two potential writing gigs (both were for tech verticals). I got both of them, and ended up accepting one of them. I thought I'd share this considering how popular Notion is right now. Personally, I use Bonsai for my freelancing business but I want to try and use Notion for my personal needs.*
 
 As a freelancer, you run the whole show. Not only do you have to do the work itself, but you also have to take care of things like accounting, marketing, customer support, sales, and everything else required for a business to run. It can be a struggle to be on top of several things all at once.
 
