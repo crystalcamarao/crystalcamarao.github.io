@@ -4,6 +4,7 @@ date: 2021-03-19 14:22:00 +08:00
 categories:
 - freelancing
 - writing
+- productivity
 tags:
 - Notion
 ---
