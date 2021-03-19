@@ -8,11 +8,7 @@ tags:
 - CXL Insitute
 ---
 
-Psychology is something any marketer or designer would benefit to learn more about. By understanding human behavior--what people want, what people need, etc.--you are able to effectively market to them and thus persuade them. I think this is especially true today in the digital world because of all the noise constantly trying to grab our attention.
-
-Having no psychology background (unless you count the three-unit Psychology 101 course I took back in college), I didn't know much about the psychological principles you can apply to improve websites and optimize for conversions.
-
-I'm currently trying to change that. I'm the kind of person who believes in lifelong learning--I'm constantly looking for ways to improve my skills in web design and digital marketing. And when it came to learning providers, [CXL Institute was an obvious choice](https://cxl.com/institute/reviews/#_r_crystal80).
+I'm the kind of person who believes in lifelong learning--I'm constantly looking for ways to improve my skills in web design and digital marketing. And when it came to learning providers, [CXL Institute was an obvious choice](https://cxl.com/institute/reviews/#_r_crystal80).
 
  I decided to take their [Digital Psychology and Persuasion Minidegree](https://cxl.com/institute/programs/digital-psychology-persuasion-training/#_r_crystal80) for 2 main reasons:
 
@@ -20,7 +16,11 @@ I'm currently trying to change that. I'm the kind of person who believes in life
 
 2. I've always been fascinated with how technology has impacted people and society. I think that digital psychology is super duper interesting because the world was profoundly changed by the internet and there are a gazillion things we are thankful for it, but also not thankful for it.
 
-I'm really excited to be doing this Minidegree. And since I was given a scholarship, I will be writing one article per week for the next twelve weeks about it. Allow me to share my thoughts as I go through it.
+Psychology is something any marketer or designer would benefit to learn more about. By understanding human behavior--what people want, what people need, etc.--you are able to effectively market to them and thus persuade them. I think this is especially true today in the digital world because of all the noise constantly trying to grab our attention.
+
+Having no psychology background (unless you count the three-unit Psychology 101 course I took back in college), I didn't know much about the psychological principles you can apply to improve websites and optimize for conversions.
+
+I'm currently trying to change that with the help of this Minidegree. I'm really excited to be doing it. And since I was given a scholarship, I will be writing one article per week for the next twelve weeks about it. Allow me to share my thoughts as I go through it.
 
 The first track of this Minidegree is **Psychology Foundations**, where psychological principles that drive human behavior are taught. It attempts to answer the following questions:
 
