@@ -26,4 +26,4 @@ Your domain URL immediately goes to your homepage. Whereas, you can add as many 
 
 Knowing the difference between a homepage and a landing page is crucial to marketing your business. For example, the classic mistake of sending all your paid ads traffic to your homepage, instead of a dedicated landing page, will surely lower your conversion rate.
 
-Your homepage and landing page should work in tandem to bring sucess to your business. Just remember that they have different purposes.
+Your homepage and landing page should work in tandem to bring success to your business. Just remember that they have different purposes.
