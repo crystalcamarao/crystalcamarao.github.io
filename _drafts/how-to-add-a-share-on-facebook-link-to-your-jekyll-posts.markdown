@@ -13,7 +13,7 @@ In the hopes that a beginner developer would be helped by this, here are the ste
 
 1. Create a Facebook app.
 
-   Go to
+   Go to the Facebook Developer portal and click on "".
 
 2. Add your domain and Privacy Policy page.
 
