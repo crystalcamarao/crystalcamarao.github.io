@@ -14,7 +14,7 @@ One of my biggest pet peeves as a web designer is when someone asks me to make a
 
 ## Your homepage is for your company to shine; your landing page is for your customer to shine.
 
-You can be as promotional as you like on your homepage, but in your landing page, it's your customer who is the hero. After all, you are solving a specific problem or problems for them. Ideally, your landing page follows the StoryBrand framework.
+You can be as promotional as you like on your homepage, but in your landing page, it's your customer who is the hero. After all, you are solving a specific problem or problems for them. Ideally, your landing page follows the [StoryBrand framework](https://storybrand.com).
 
 ## Your homepage can have a lot of CTAs; your landing page has only one CTA.
 
@@ -26,4 +26,4 @@ Your domain URL immediately goes to your homepage. Whereas, you can add as many 
 
 Knowing the difference between a homepage and a landing page is crucial to marketing your business. For example, the classic mistake of sending all your paid ads traffic to your homepage, instead of a dedicated landing page, will surely lower your conversion rate.
 
-Your homepage and landing page should work in tandem to bring success to your business. Just remember that they have different purposes.
+Just remember that they serve different purposes, and your homepage and landing page will work together to bring success to your business.
