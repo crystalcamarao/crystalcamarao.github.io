@@ -1,20 +1,19 @@
 ---
 title: 'Homepage vs. Landing Page: What''s the Difference?'
-date: 2021-03-21 21:47:00 +08:00
+date: 2021-03-21 09:55:00 +08:00
 categories:
 - web design
 - digital marketing
 tags:
 - homepage
 - landing page
-- StoryBrand
 ---
 
 One of my biggest pet peeves as a web designer is when someone asks me to make a landing page when in fact what they want is a homepage, or vice versa. I don't take it against them, but I usually feel too polite to explain it to them so I just let them keep calling it whatever they want to and then help them achieve what they really want to do. If I could, though, here's what I'll tell them:
 
-## Your homepage is for your company to shine; your landing page is for your customer to shine.
+## Your homepage is used to inform the visitor; your landing page is used to persuade the visitor.
 
-You can be as promotional as you like on your homepage, but in your landing page, it's your customer who is the hero. After all, you are solving a specific problem or problems for them. Ideally, your landing page follows the [StoryBrand framework](https://storybrand.com).
+Your homepage is for you to tell the user what your company is about and give them an overview, but in your landing page, you have a specific purpose and focus of getting the visitor to take an offer. For example, check out Hubspot's [homepage](https://www.hubspot.com) versus their [landing page for downloading an ebook](https://offers.hubspot.com/how-to-optimize-landing-pages-for-conversion) (note: the ebook is about landing pages--how meta).
 
 ## Your homepage can have a lot of CTAs; your landing page has only one CTA.
 
@@ -22,8 +21,8 @@ Want to link to your shop, your blog, and your social media pages? You can do th
 
 ## Your homepage is only one; you can have as many landing pages as you like.
 
-Your domain URL immediately goes to your homepage. Whereas, you can add as many landing pages as your hosting allows. Ideally, you should have different landing pages depending on what your marketing goal is and you should be A/B testing them.
+Usually, your domain URL immediately goes to your homepage. Whereas, you can add as many landing pages as your hosting allows. Ideally, you should have different landing pages depending on what your marketing goal is and you should be A/B testing them.
 
 Knowing the difference between a homepage and a landing page is crucial to marketing your business. For example, the classic mistake of sending all your paid ads traffic to your homepage, instead of a dedicated landing page, will surely lower your conversion rate.
 
-Just remember that they serve different purposes, and your homepage and landing page will work together to bring success to your business.
+More on the difference between them on [Unbounce](https://unbounce.com/landing-page-articles/whats-the-difference-between-a-landing-page-and-a-homepage/).
