@@ -29,11 +29,34 @@ If you don't have a Privacy Policy yet for your website, you can use
 
 ## 4. Asynchronously load the Facebook SDK for JavaScript into your page.
 
-{% raw %}{% include load-fb-sdk.html %}{% endraw %}
+{% raw %}
+        <script>
+            window.fbAsyncInit = function() {
+            FB.init({
+            appId            : '{{site.facebook_app_id}}',
+            autoLogAppEvents : true,
+            xfbml            : true,
+            version          : 'v10.0'
+            );
+            };
+        </script>
+        <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js"></script>
+{% endraw %}
 
 ## 5. Place the "Share on Facebook" link wherever you want to put it and then trigger a Share dialog.
 
-{% raw %}{% include share-fb.html %}{% endraw %}
+{% raw %}   
+        <a href="#" id="shareBtn">Facebook</a>
+        <script>
+        document.getElementById('shareBtn').onclick = function() {
+          FB.ui({
+            display: 'popup',
+            method: 'share',
+            href: '{{ site.url }}{{ page.url }}',
+          }, function(response){});
+        }
+        </script>
+{% endraw %}
 
 ## 6. Make sure you have Open Graph tags.
 
