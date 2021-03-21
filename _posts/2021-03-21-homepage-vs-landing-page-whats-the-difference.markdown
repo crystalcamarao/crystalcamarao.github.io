@@ -13,7 +13,7 @@ One of my biggest pet peeves as a web designer is when someone asks me to make a
 
 ## Your homepage is used to inform the visitor; your landing page is used to persuade the visitor.
 
-Your homepage is for you to tell the user what your company is about and give them an overview, but in your landing page, you have a specific purpose and focus of getting the visitor to take an offer. For example, check out Hubspot's [homepage](https://www.hubspot.com) versus their [landing page for downloading an ebook](https://offers.hubspot.com/how-to-optimize-landing-pages-for-conversion) (note: the ebook is about landing pages--how meta).
+Your homepage is for you to tell the user what your company is about and give them an overview, but in your landing page, you have a specific purpose and focus of getting the visitor to take an offer. For example, check out Hubspot's [homepage](https://www.hubspot.com) versus their [landing page for downloading an ebook](https://offers.hubspot.com/how-to-optimize-landing-pages-for-conversion) (note: the ebook is about landing pages--how meta!)
 
 ## Your homepage can have a lot of CTAs; your landing page has only one CTA.
 
