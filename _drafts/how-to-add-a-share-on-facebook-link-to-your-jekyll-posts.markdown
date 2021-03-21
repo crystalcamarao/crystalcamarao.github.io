@@ -29,7 +29,7 @@ If you don't have a Privacy Policy yet for your website, you can use
 
 ## 4. Asynchronously load the Facebook SDK for JavaScript into your page.
 
-       
+{% raw %}{% include load-fb-sdk.html %}{% endraw %}
 
 ## 5. Place the "Share on Facebook" link wherever you want to put it and then trigger a Share dialog.
 
