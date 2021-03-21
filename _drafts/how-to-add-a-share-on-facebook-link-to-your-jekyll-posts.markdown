@@ -3,6 +3,9 @@ title: How to Add a "Share on Facebook" Link to Your Jekyll Posts
 date: 2021-03-23 06:34:00 +08:00
 categories:
 - web design
+tags:
+- jekyll
+- facebook
 ---
 
 This site is powered by [Jekyll](https://jekyllrb.com) and [GitHub Pages](https://pages.github.com) and they're both awesome. The best part is that they're completely free. I usually prefer to use no-code tools like [Webflow](http://webflow.com) when doing web design work, but for my personal site I thought I'd have fun with it and practice coding.
