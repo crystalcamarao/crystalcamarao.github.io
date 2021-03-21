@@ -28,3 +28,5 @@ Knowing the difference between a homepage and a landing page is crucial to marke
 Note that using landing pages is optional, not mandatory. However, it is highly recommended.
 
 I've also seen cases where the homepage is designed like a sort-of landing page. It really depends on what your marketing goals are, etc.
+
+I hope this has been helpful!
