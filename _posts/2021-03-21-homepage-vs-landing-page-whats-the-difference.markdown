@@ -26,3 +26,5 @@ Usually, your domain URL immediately goes to your homepage. Whereas, you can add
 Knowing the difference between a homepage and a landing page is crucial to marketing your business. For example, the classic mistake of sending all your paid ads traffic to your homepage, instead of a dedicated landing page, will surely lower your conversion rate.
 
 Note that using landing pages is optional, not mandatory. However, it is highly recommended.
+
+I've also seen cases where the homepage is designed like a sort-of landing page. It really depends on what your marketing goals are, etc.
