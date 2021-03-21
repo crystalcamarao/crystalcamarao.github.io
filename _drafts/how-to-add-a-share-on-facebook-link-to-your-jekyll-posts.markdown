@@ -8,7 +8,7 @@ tags:
 - facebook
 ---
 
-This site is powered by [Jekyll](https://jekyllrb.com) and [GitHub Pages](https://pages.github.com) and they're both awesome. The best part is that they're completely free. I usually prefer to use no-code tools like [Webflow](http://webflow.com) when doing web design work, but for my personal site I thought I'd have fun with it and practice coding.
+This site is powered by [Jekyll](https://jekyllrb.com) and [GitHub Pages](https://pages.github.com) and they're both awesome. The best part is that they're both completely free. I usually prefer to use no-code tools like [Webflow](http://webflow.com) when doing web design work, but for my personal site I thought I'd have fun with it and practice coding.
 
 Now, I wanted to add a "Share on Facebook" link at the end of my posts as a CTA. The problem was that the tutorials I found were outdated. So, I had to find my own solution.
 
@@ -18,12 +18,12 @@ In case you're wondering how I did it, here are the steps you need to take:
 
 Go to the [Facebook Developer](https://developers.facebook.com/) portal and click on "Create App".
 
-## 2. Add your domain and Privacy Policy URL in Settings > Basic.
+## 2. Add your domain and Privacy Policy URLs in Settings > Basic.
 
 If you don't have a Privacy Policy yet for your website, you can use
 [GetTerms](https://getterms.io) for a free generator.
 
-## 3. Copy your Facebook app ID and add it as variable in your `config.yml` file.
+## 3. Copy your Facebook app ID and add it as a variable in your `config.yml` file.
 
         facebook_app_id: 123456789012345
 
