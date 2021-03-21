@@ -41,7 +41,7 @@ If you don't have a Privacy Policy yet for your website, you can use
         </script>
         <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js"></script>
 
-## 5. Place the "Share on Facebook" link wherever you want to put it.
+## 5. Place the "Share on Facebook" link wherever you want to put it and then trigger a Share dialog.
 
         <a href="#" id="shareBtn">Share on Facebook</a>
         <script>
