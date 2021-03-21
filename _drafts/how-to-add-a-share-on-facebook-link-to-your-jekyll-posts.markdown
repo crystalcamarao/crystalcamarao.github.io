@@ -13,20 +13,19 @@ In case you're wondering how I did it, here are the steps you need to take:
 
 ## 1. Create a Facebook app.
 
-Go to the[Facebook Developer ](https://developers.facebook.com/)portal and click on "Create App".
+Go to the [Facebook Developer](https://developers.facebook.com/) portal and click on "Create App".
 
 ## 2. Add your domain and Privacy Policy URL in Settings > Basic.
 
 If you don't have a Privacy Policy yet for your website, you can use
 [GetTerms](https://getterms.io) for a free generator.
 
-## 3. Copy your Facebook app ID and add it to your `config.yml` file, like so:
+## 3. Copy your Facebook app ID and add it as variable in your `config.yml` file.
 
         facebook_app_id: 123456789012345
 
 ## 4. Asynchronously load the Facebook SDK for JavaScript into your page.
 
-        <a href="#" id="shareBtn">Share on Facebook</a>
         <script>
         window.fbAsyncInit = function() {
         FB.init({
@@ -41,6 +40,7 @@ If you don't have a Privacy Policy yet for your website, you can use
 
 ## 5. Place the "Share on Facebook" link wherever you want to put it.
 
+        <a href="#" id="shareBtn">Share on Facebook</a>
         <script>
         document.getElementById('shareBtn').onclick = function() {
         FB.ui({
@@ -52,5 +52,7 @@ If you don't have a Privacy Policy yet for your website, you can use
         </script>
 
 ## 6. Make sure you have Open Graph tags.
+
+Try [this tutorial](https://danaleegibson.com/jekyll-and-facebook-og-images/) for more info.
 
 And that's it! Your readers can now share your posts on Facebook easily.
