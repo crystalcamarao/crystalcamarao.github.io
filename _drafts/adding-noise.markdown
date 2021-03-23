@@ -1,6 +1,6 @@
 ---
 title: Adding Noise
-date: 2021-03-29 06:42:00 +08:00
+date: 2021-03-25 06:42:00 +08:00
 categories:
 - writing
 ---
