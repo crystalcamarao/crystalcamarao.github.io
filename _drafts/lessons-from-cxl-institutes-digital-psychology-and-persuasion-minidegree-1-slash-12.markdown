@@ -1,7 +1,7 @@
 ---
 title: CXL Institute’s Digital Psychology and Persuasion Minidegree Review (Part 1
   of 12)
-date: 2021-03-27 16:37:00 +08:00
+date: 2021-03-28 16:37:00 +08:00
 categories:
 - digital psychology
 tags:
@@ -10,7 +10,7 @@ tags:
 
 I'm the kind of person who believes in lifelong learning--I'm constantly looking for ways to improve my skills in web design and digital marketing. And when it came to learning providers, [CXL Institute was an obvious choice](https://cxl.com/institute/reviews/#_r_crystal80).
 
- I decided to take their [Digital Psychology and Persuasion Minidegree](https://cxl.com/institute/programs/digital-psychology-persuasion-training/#_r_crystal80) for 2 main reasons:
+I decided to take their [Digital Psychology and Persuasion Minidegree](https://cxl.com/institute/programs/digital-psychology-persuasion-training/#_r_crystal80) for 2 main reasons:
 
 1. I want to get better at understanding people and how they think and behave digitally. This will in turn help me get better at making websites and copy and get high conversion rates.
 
@@ -46,7 +46,7 @@ Laja then explained Dr. BJ Fogg's research on credibility and behavioral design.
 
 ### Lessons from Neuromarketing
 
-Lorem ipsum
+This part talks about our Old Brain, an ancient and primitive part of our brain, and how it dominates our brain when it comes to making decisions. It ends with a TED Talk by Patrick Renvoise.
 
 ### A Big List of Persuasion Techniques
 
