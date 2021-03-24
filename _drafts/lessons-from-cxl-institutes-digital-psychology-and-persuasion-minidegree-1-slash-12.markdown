@@ -10,11 +10,7 @@ tags:
 
 I'm the kind of person who believes in lifelong learning--I'm constantly looking for ways to improve my skills in web design and digital marketing. And when it came to learning providers, [CXL Institute was an obvious choice](https://cxl.com/institute/reviews/#_r_crystal80).
 
-I decided to take their [Digital Psychology and Persuasion Minidegree](https://cxl.com/institute/programs/digital-psychology-persuasion-training/#_r_crystal80) for 2 main reasons:
-
-1. I want to get better at understanding people and how they think and behave digitally. This will in turn help me get better at making websites and copy and get high conversion rates.
-
-2. I've always been fascinated with how technology has impacted people and society. I think that digital psychology is super duper interesting because the world was profoundly changed by the internet and there are a gazillion things we are thankful for it, but also not thankful for it.
+ I decided to take their [Digital Psychology and Persuasion Minidegree](https://cxl.com/institute/programs/digital-psychology-persuasion-training/#_r_crystal80) because I want to get better at understanding people and how they think and behave digitally. This will in turn help me get better at making websites and copy and get high conversion rates.
 
 Psychology is something any marketer or designer would benefit to learn more about. By understanding human behavior--what people want, what people need, etc.--you are able to effectively market to them and thus persuade them. I think this is especially true today in the digital world because of all the noise constantly trying to grab our attention.
 
@@ -46,7 +42,7 @@ Laja then explained Dr. BJ Fogg's research on credibility and behavioral design.
 
 ### Lessons from Neuromarketing
 
-This part talks about our Old Brain, an ancient and primitive part of our brain, and how it dominates our brain when it comes to making decisions. It ends with a TED Talk by Patrick Renvoise that I enjoyed watching.
+Lorem ipsum
 
 ### A Big List of Persuasion Techniques
 
