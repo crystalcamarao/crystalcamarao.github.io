@@ -44,7 +44,7 @@ Laja then explained Dr. BJ Fogg's research on credibility and behavioral design.
 
 ### Lessons from Neuromarketing
 
-This lesson talked about the Old Brain, the ancient and primitive part of our brain, and how it dominates our brain when making decisions. The lesson ended with a TEDx Talk by Patrick Renvoise that I enjoyed.
+This lesson talked about the Old Brain, the ancient and primitive part of our brain, and how it dominates our brain when making decisions. The lesson ended with a TEDx Talk by Patrick Renvoise. I enjoyed watching it.
 
 ### A Big List of Persuasion Techniques
 
