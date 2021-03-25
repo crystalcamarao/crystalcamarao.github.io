@@ -48,7 +48,7 @@ This lesson talked about the Old Brain, the ancient and primitive part of our br
 
 ### A Big List of Persuasion Techniques
 
-Laja went on to explain a lot of persuasion techniques. 
+Laja went on to explain a lot of persuasion techniques. And by a lot, I mean a lot lot. I counted 40.
 
 ### Cognitive Biases – We’re All Affected By Them
 
