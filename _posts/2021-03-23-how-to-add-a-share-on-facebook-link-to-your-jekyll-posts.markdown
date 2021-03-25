@@ -27,7 +27,7 @@ If you don't have a Privacy Policy yet for your website, you can use
 
         facebook_app_id: 123456789012345
 
-## 4. Asynchronously load the Facebook SDK for JavaScript into your page.
+## 4. Asynchronously load the Facebook SDK for JavaScript into your page, ideally after the opening `<body>` tag.
 
 {% raw %}
         <script>
