@@ -1,6 +1,6 @@
 ---
-title: Framing it as Rest
-date: 2021-03-27 15:10:00 +08:00
+title: How I Think About Rest
+date: 2021-03-27 07:40:00 +08:00
 categories:
 - productivity
 ---
