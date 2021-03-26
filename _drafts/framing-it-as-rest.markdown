@@ -9,7 +9,7 @@ I often wonder where my day went. So I recently started using an activity tracke
 
 I could easily frame it as doing nothing, but I value rest and instead think that even when I'm doing nothing, it's actually productive because I am resting.
 
-Rest is important. It isn't rocket science. Too much rest is bad, for sure. And I'm lucky enough that my schedule is fairly flexible--I can work whenever I want to, as long as I finish my tasks for the day, and that I have a lot of free time--I don't have to commute (I work from home), do household stuff (in the Philippines it's very normal to have a helper), and take care of anyone (I have no dependents).
+Rest is important--it isn't rocket science. Too much rest is bad, for sure. And I'm lucky enough that my schedule is fairly flexible--I can work whenever I want to, as long as I finish my tasks for the day, and that I have a lot of free time--I don't have to commute (I work from home), do household stuff (in the Philippines it's very normal to have a helper), and take care of anyone (I have no dependents).
 
 Some people would say I'm just procrastinating. But for me, what's more important is that I eventually finish my to-do list for the day, versus not being able to finish it at all.
 
