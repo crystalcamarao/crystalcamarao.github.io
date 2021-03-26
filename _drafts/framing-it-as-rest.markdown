@@ -13,6 +13,6 @@ Rest is important. It isn't rocket science. Too much rest is bad, for sure. And 
 
 I believe that if I didn't spend this much time resting, I wouldn't be able to get anything done. Especially when you think about how the traditional 8-hour workday [doesn't make much sense](https://youmatter.world/en/schedules-working-days-productivity/) anyway.
 
-That doesn't mean I'm as productive as I want to be. I waste a lot of time surfing the internet, for example. I'm also easily distracted.
+(That doesn't mean I'm as productive as I want to be. I waste a lot of time surfing the internet, for example. I'm also easily distracted.)
 
-I probably could get more done if I wasn't resting this much, but knowing myself, I'd crash and burn eventually. So I think my current setup is a healthy compromise.
+More often than not I use rest as a way to procrastinate. And I probably could get more done if I wasn't resting this much, but knowing myself, I'd crash and burn eventually. So I think my current setup is a healthy compromise.
