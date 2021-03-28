@@ -52,7 +52,7 @@ Laja went on to explain a lot of persuasion techniques. And by a lot, I mean a l
 
 ### Cognitive Biases – We’re All Affected By Them
 
-Lorem ipsum
+This lesson taught some of the more common biases faced during CRO work. It required a bit of a background in CRO to understand.
 
 ### Emotional and Rational Decision Making
 
