@@ -8,9 +8,9 @@ tags:
 - CXL Insitute
 ---
 
-I'm the kind of person who believes in lifelong learning--I'm constantly looking for ways to improve my skills in web design and digital marketing. And when it came to learning providers, [CXL Institute was an obvious choice](https://cxl.com/institute/reviews/#_r_crystal80).
+I believe in lifelong learning--I'm constantly looking for ways to improve my skills in web design and digital marketing. And when it came to learning providers, [CXL Institute was an obvious choice](https://cxl.com/institute/reviews/#_r_crystal80).
 
-I decided to take their [Digital Psychology and Persuasion Minidegree](https://cxl.com/institute/programs/digital-psychology-persuasion-training/#_r_crystal80) because I want to get better at understanding people and how they think and behave digitally. This will in turn help me get better at making websites and copy and get high conversion rates.
+I decided to take their [Digital Psychology and Persuasion Minidegree](https://cxl.com/institute/programs/digital-psychology-persuasion-training/#_r_crystal80) because I want to get better at understanding people and how they think and behave digitally. This will in turn help me get better at making websites and copy and get higher conversion rates.
 
 Psychology is something any marketer or designer would benefit to learn more about. By understanding human behavior--what people want, what people need, etc.--you are able to effectively market to them and thus persuade them. I think this is especially true today in the digital world because of all the noise constantly trying to grab our attention.
 
@@ -44,11 +44,11 @@ Laja then explained Dr. BJ Fogg's research on credibility and behavioral design.
 
 ### Lessons from Neuromarketing
 
-This lesson talked about the Old Brain, the ancient and primitive part of our brain, and how it dominates our brain when making decisions. The lesson ended with a TEDx Talk by Patrick Renvoise.
+This lesson talked about the Old Brain, the ancient and primitive part of our brain, and how it dominates our brain when making decisions. The lesson ended with a TEDx Talk by Patrick Renvoise (I rather enjoyed this).
 
 ### A Big List of Persuasion Techniques
 
-Laja went on to explain a lot of persuasion techniques. And by a lot, I mean a lot lot. I counted 40.
+Laja went on to explain a lot of persuasion techniques. And by a lot, I mean a lot lot. I counted 40. It was a lot to take in but it was as interesting as the others.
 
 ### Cognitive Biases – We’re All Affected By Them
 
