@@ -1,7 +1,7 @@
 ---
 title: CXL Institute’s Digital Psychology and Persuasion Minidegree Review (Part 1
   of 12)
-date: 2021-03-29 16:37:00 +08:00
+date: 2021-03-29 17:52:00 +08:00
 categories:
 - digital psychology
 tags:
@@ -28,7 +28,7 @@ The first track of this Minidegree is **Psychology Foundations**, where psycholo
 
 * To what extent do first impressions, visuals, and emotions affect our ability to learn information?
 
-This week, I finished 2 courses from this track.
+This week, I finished the first course and 1/3 of the next course from this track.
 
 ## People & psychology
 
@@ -80,42 +80,14 @@ This lesson talked about how trust is increased by oxytocin, even when the oxyto
 
 ### First Impressions
 
-
+Dooley explained 4 factors that influence first impressions on a website. It helped reinforce to me what kind of web design converts users.
 
 ### Internal vs External Factors
 
+This lesson explains how attention can be gained via two routes: external factors (considered objective) and internal factors (considered subjective). An important reminder for me was how important it is to "analyze whether you’re grabbing someone’s attention, or distracting them from the offer on your site".
 
+Note: there was an announcement of a quiz at the start of the lesson. I got nervous because of this, since this was the first mention ever of having a quiz during my pursuit of the Minidegree. It turned out that there was only one question, and I passed! It was a tricky and difficult question though.
 
-### Cognitive Load
-
-Lorem ipsum
-
-### How Distracting are Banner Advertisements on Home Pages? A Case Study
-
-Lorem ipsum
-
-### Visual Cue Case Study: Lead Generation Form on a Landing Page
-
-Lorem ipsum
-
-### Eye Gaze Patterns
-
-Lorem ipsum
-
-### Understanding Online Reading Patterns
-
-Lorem ipsum
-
-### Case Study: Online Reading Patterns
-
-Lorem ipsum
-
-### User Reading Patterns of the New York Times – 2004 vs. 2016
-
-Lorem ipsum
-
-## Wrap Up
-
-Lorem ipsum
+Overall, my experience of learning this first week was quite a challenge, but a good one. I am confident I am slowly learning to become a better designer and marketer.
 
 *If you’re considering taking CXL Institute courses, please support me by [signing up using my affiliate link](http://cxl.com/institute/#_r_crystal80).*
