@@ -48,7 +48,7 @@ This lesson talked about the Old Brain, the ancient and primitive part of our br
 
 ### A Big List of Persuasion Techniques
 
-Laja went on to explain a lot of persuasion techniques. And by a lot, I mean a lot lot. I counted 40. It was a lot to take in but it was just as interesting as the other lessons. My favorite one was the Status Quo Bias because it's very true for me on a personal level. On a more professional level, Position Targeting was my favorite thing to learn about because you don't always have the absolute best offer in the marketplace.
+Laja went on to explain a lot of persuasion techniques. And by a lot, I mean a lot lot. I counted 40. It was a lot to take in but it was just as interesting as the other lessons. Position Targeting was my favorite thing to learn about because you don't always have the absolute best offer in the marketplace and so the tips were helpful.
 
 ### Cognitive Biases – We’re All Affected By Them
 
