@@ -5,4 +5,4 @@ categories:
 - side projects
 ---
 
-A few days ago I launched a new side project, [Three Things Daily](https://threethingsdaily.xyz). Basically, it's a public gratitude journal. I designed and developed it mostly using no-code tools. Hopefully, it kicks off. But for me what's important is that I enjoyed making it. 
+A few days ago I launched a new side project, [Three Things Daily](https://threethingsdaily.xyz). Basically, it's a public gratitude journal. I designed and developed it mostly using no-code tools. Hopefully, it kicks off. But for me what's important is that I enjoyed making it.
