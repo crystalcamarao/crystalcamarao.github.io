@@ -60,7 +60,7 @@ Laja started by stating a fact that was very surprising for me: "well over 90% o
 
 ### How People View Websites
 
-This lesson was not at all new to me, but still very valuable. Eyetracking and research have shown us how people view websites. Knowing things like F-patterns really helps in making websites that are engaging.
+Eyetracking and research have shown us how people view websites. The first part of the lesson was not at all new to me, but still very valuable to be reminded of. Knowing things like F-patterns really helps in making websites that are engaging. The latter part of the lesson was new to me and I'm sure it will really help me.
 
 ### E-commerce Product Page Study: Value Perceptions and Image size
 
