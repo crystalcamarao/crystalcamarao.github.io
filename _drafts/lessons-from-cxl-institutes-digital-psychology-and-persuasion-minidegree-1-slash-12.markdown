@@ -76,15 +76,15 @@ In this course, Roger Dooley walks us through how to get attention and maintain 
 
 ### Oxytocin and First Impressions
 
-Lorem ipsum
+This lesson talked about how trust is increased by oxytocin, even when the oxytocin is artificial. It also talked about how visitors have a first impression on your website already in the first 35 to 50 milliseconds, so gaining trust early on is crucial.
 
 ### First Impressions
 
-Lorem ipsum
+
 
 ### Internal vs External Factors
 
-Lorem ipsum
+
 
 ### Cognitive Load
 
