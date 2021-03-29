@@ -9,6 +9,6 @@ A few days ago I launched a new side project, [Three Things Daily](https://three
 
 Getting the MVP done wasn't difficult. I designed and developed it using mostly no-code tools. What's harder now is getting and retaining users. I don't even have a marketing plan yet. All I know is the current users seem to be loving the idea of it.
 
-Another problem is that the idea isn't really unique. There must be hundreds of gratitude journal apps out there. So I figured I should just target a tiny piece of the market and go from there.
+Another problem is that the idea isn't really unique. There must be hundreds of gratitude journal apps out there. I'm not quite sure yet how to position it and what things to add to make it different.
 
 What I absolutely need right now is feedback. Hopefully, I get more of it.
