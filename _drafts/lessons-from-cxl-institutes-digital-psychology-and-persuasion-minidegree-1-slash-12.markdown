@@ -64,7 +64,7 @@ Eyetracking and research have shown us how people view websites. The first part 
 
 ### E-commerce Product Page Study: Value Perceptions and Image size
 
-Lorem ipsum
+This lesson involved part one of a three-part study series exploring ecommerce product page design. The hypothesis was that: "large product images on product pages result in a higher perceived value compared to smaller product images on the same page". The results were that it was true for a hard drive study treatment, but not so much for a shirt study treatment. I'm sure more will be explained later.
 
 ### Cognitive Fluency
 
