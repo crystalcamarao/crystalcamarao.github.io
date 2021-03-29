@@ -56,11 +56,11 @@ This lesson taught some of the more common biases faced during CRO work (it requ
 
 ### Emotional and Rational Decision Making
 
-Lorem ipsum
+Laja started by stating a fact that was very surprising for me: "well over 90% of our behavior is generated outside of consciousness". Then I learned about how important it is to sell to the old brain but serve both the emotional and rational parts of our brain.
 
 ### How People View Websites
 
-Lorem ipsum
+This lesson was not at all new to me, but still very valuable. Eyetracking and research have shown us how people view websites. Knowing things like F-patterns really helps in making websites that are engaging.
 
 ### E-commerce Product Page Study: Value Perceptions and Image size
 
