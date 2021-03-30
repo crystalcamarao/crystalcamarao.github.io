@@ -50,3 +50,4 @@ In this course, Bart Schutz helps us identify and understand the decisions users
 
 Just like last week, I learned a lot and feel grateful for the chance to do this Minidegree.
 
+*If you’re considering taking CXL Institute courses, please support me by [signing up using my affiliate link](http://cxl.com/institute/#_r_crystal80).
