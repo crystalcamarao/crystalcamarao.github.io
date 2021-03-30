@@ -2,6 +2,10 @@
 title: CXL Institute’s Digital Psychology and Persuasion Minidegree Review (Part 2
   of 12)
 date: 2021-04-04 22:34:00 +08:00
+categories:
+- digital psychology
+tags:
+- CXL Insitute
 ---
 
 This week, I finished the rest of the second course as well as the whole third course of the **Psychology Foundations** track.
@@ -36,5 +40,13 @@ Dooley explained here how cognitive load makes things harder for your potential 
 
 ## Decision Making and Emotions
 
-Bart Schutz helps us identify and understand the decisions users make on our sites.
+In this course, Bart Schutz helps us identify and understand the decisions users make on our sites.
+
+### 4 Factors that Influence Decision Making
+
+### Persuasive Journey Mapping
+
+### Master the Moment of Decision Using Applied Neuroscience Methods for Measuring Attention, Emotion & Memory – Karsten Lund
+
+Just like last week,
 
