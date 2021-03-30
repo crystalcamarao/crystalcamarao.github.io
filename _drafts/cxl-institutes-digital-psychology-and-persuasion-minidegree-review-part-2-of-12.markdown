@@ -16,7 +16,7 @@ Dooley explained here how cognitive load makes things harder for your potential 
 
 ### How Distracting are Banner Advertisements on Home Pages? A Case Study
 
-
+This lesson talked about a study that attempts to get actual data on how distracting ads can be. 
 
 ### Visual Cue Case Study: Lead Generation Form on a Landing Page
 
