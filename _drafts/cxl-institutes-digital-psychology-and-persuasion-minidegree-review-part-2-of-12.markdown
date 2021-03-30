@@ -4,10 +4,11 @@ title: CXL Institute’s Digital Psychology and Persuasion Minidegree Review (Pa
 date: 2021-04-04 22:34:00 +08:00
 ---
 
-
+This week, I finished the rest of the second course as well as the whole third course of the **Psychology Foundations** track.
 
 ### Cognitive Load
 
+Dooley explained here how cognitive load makes things harder for your potential customer.
 
 ### How Distracting are Banner Advertisements on Home Pages? A Case Study
 
