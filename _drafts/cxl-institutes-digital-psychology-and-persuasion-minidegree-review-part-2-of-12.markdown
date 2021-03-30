@@ -12,7 +12,7 @@ This week, I finished the rest of the second course as well as the whole third c
 
 ### Cognitive Load
 
-Dooley explained here how cognitive load makes things harder for your potential customer.
+Dooley explained here how cognitive load makes things harder for your potential customer. For example, if you use rotating carousels that rotate too quickly on your website, you make it harder for them to learn about your product. Minimizing cognitive load is important so that you can retain the user's attention and therefore increase the likelihood of a conversion.
 
 ### How Distracting are Banner Advertisements on Home Pages? A Case Study
 
