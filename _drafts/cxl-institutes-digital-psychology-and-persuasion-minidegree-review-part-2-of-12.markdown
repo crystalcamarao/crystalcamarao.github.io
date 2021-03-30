@@ -48,5 +48,5 @@ In this course, Bart Schutz helps us identify and understand the decisions users
 
 ### Master the Moment of Decision Using Applied Neuroscience Methods for Measuring Attention, Emotion & Memory – Karsten Lund
 
-Just like last week,
+Just like last week, I learned a lot and feel grateful for the chance to do this Minidegree.
 
