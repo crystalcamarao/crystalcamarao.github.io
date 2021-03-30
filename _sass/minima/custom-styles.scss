@@ -1,9 +1,8 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
-@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@500&family=Open+Sans:wght@300&family=Comfortaa&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;500&family=Comfortaa&display=swap');
 body {
- font-family: 'Open Sans', sans-serif;
+font-family: 'Quicksand', sans-serif;
  font-weight: 300;
 }
 a
@@ -11,8 +10,7 @@ a
     font-weight:bold;
 }
 h1, h2, h3, h4, h5, h6 {
-font-family: 'Archivo', sans-serif;
- font-weight: 500;
+font-weight: 500;
 }
 
 h1
