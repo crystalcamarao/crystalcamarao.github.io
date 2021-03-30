@@ -48,6 +48,6 @@ In this course, Bart Schutz helps us identify and understand the decisions users
 
 ### Master the Moment of Decision Using Applied Neuroscience Methods for Measuring Attention, Emotion & Memory – Karsten Lund
 
-Just like last week, I learned a lot and feel grateful for the chance to do this Minidegree.
+Just like last week, I learned a lot. I feel grateful for the chance to do this Minidegree.
 
 *If you’re considering taking CXL Institute courses, please support me by [signing up using my affiliate link](http://cxl.com/institute/#_r_crystal80).
