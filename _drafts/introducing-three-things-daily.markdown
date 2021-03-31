@@ -1,8 +1,10 @@
 ---
 title: Introducing Three Things Daily
-date: 2021-03-31 06:58:00 +08:00
+date: 2021-03-31 14:55:00 +08:00
 categories:
 - side projects
+tags:
+- three things daily
 ---
 
 A few days ago I launched a new side project, [Three Things Daily](https://threethingsdaily.xyz). Basically, it's a public gratitude journal. Hopefully, it kicks off. But for me what's important is that I enjoyed making it.
