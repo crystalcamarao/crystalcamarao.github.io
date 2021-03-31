@@ -1,6 +1,6 @@
 ---
 title: Introducing Three Things Daily
-date: 2021-03-31 06:58:00 +08:00
+date: 2021-03-31 21:37:00 +08:00
 categories:
 - side projects
 tags:
