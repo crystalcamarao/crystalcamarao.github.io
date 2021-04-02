@@ -5,8 +5,6 @@ categories:
 - web design
 ---
 
-By "top users" I mean the users with the most number of posts.
+By "top users" I mean the users with the most number of posts. I wanted to show this data on [Three Things Daily](http://threethingsdaily.xyz) to "reward" people with the most posts and encourage them to keep posting.
 
-I wanted to show this on [Three Things Daily](http://threethingsdaily.xyz) to "reward" people with the most posts.
-
- Here's my solution:
+Here's my solution:
