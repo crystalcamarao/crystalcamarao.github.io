@@ -70,7 +70,9 @@ This lesson featured Bart Schutz’s talk at the ConversionXL Live 2016 Conferen
 
 ### Master the Moment of Decision Using Applied Neuroscience Methods for Measuring Attention, Emotion & Memory – Karsten Lund
 
-This lesson featured Karsten Lund’s talk at Elite Camp 2016.
+This lesson featured Karsten Lund’s talk at Elite Camp 2016. It was about how attention, emotion and memory combine to affect our decision-making. I particularly liked how as it ended there was a comparison of two commercials, the Volkswagen commercial with the kid in Darth Vader costume and the Evian commercial where people dance to reflections of their baby selves. I had watched the Volkswagen before so I knew it was the successful one and not the failed one when quizzed.
+
+I am beginning to see common patterns throughout the courses. For example, that we make decisions based on the emotional brain is repeated quite often. This makes me realize this is something fundamental in this course.
 
 Just like last week, I learned a lot. I feel grateful for the chance to do this Minidegree.
 
