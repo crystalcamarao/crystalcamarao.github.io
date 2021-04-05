@@ -24,7 +24,7 @@ The study in this lesson attempted to answer the question: Are some visual cues 
 
 ### Eye Gaze Patterns
 
-
+This video lesson by Sophia Eng talked about how eye gaze patterns are affected by the difficulty of the task. It is important for a website to be as simple as possible and for the user to be able to finish the task as quickly as possible.
 
 ### Understanding Online Reading Patterns
 
