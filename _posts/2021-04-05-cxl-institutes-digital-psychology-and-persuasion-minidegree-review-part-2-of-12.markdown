@@ -1,7 +1,7 @@
 ---
 title: CXL Institute’s Digital Psychology and Persuasion Minidegree Review (Part 2
   of 12)
-date: 2021-04-05 14:34:00 +08:00
+date: 2021-04-05 14:55:00 +08:00
 categories:
 - digital psychology
 tags:
@@ -35,11 +35,8 @@ This was another video lesson by Eng, this time about the 3 most common online r
 The lesson was about a study conducted to answer the following:
 
 * How are online articles read?
-
 * How much of the article gets read?
-
 * Do people read image captions?
-
 * Do older internet users read articles the same way younger users do?
 
 The results were interesting. For example, both younger and older users viewed the first half of the article for the longest amount of time, indicating that the beginning of your content is usually the most important when it comes to grabbing attention.
@@ -54,35 +51,32 @@ In this course, Bart Schutz helps us identify and understand the decisions users
 
 ### 4 Factors that Influence Decision Making
 
-This lesson started off by explaining that behavioral science suggests our decision-making process is a lot more fueled by emotions than rational. It then went on to explain four chief mental processes that influence decisions:
+This lesson started off by explaining that behavioral science suggests our decision-making process is a lot more fueled by emotions than the rational part of our brain. It then went on to explain four chief mental processes that influence decisions:
 
 1. Cognitive Biases;
-
 2. Memories;
-
 3. Reason; and
-
 4. Emotions.
 
 ### Persuasive Journey Mapping
 
-This lesson featured Bart Schutz’s talk at the ConversionXL Live 2016 Conference. It focused mainly on the duality of our brains and how we are mostly not in control. He gave tons of examples which helped explain the concepts. It got technical towards the end which I had some trouble understanding. I liked how he ended the talk by saying we should not be unethical with such information.
+This lesson featured Bart Schutz’s talk at the ConversionXL Live 2016 Conference. It focused mainly on the duality of our brains. He called them System 1 and System 2. He gave tons of examples, helping explain the concepts very well. It got technical towards the end which I had some trouble understanding. I liked how he ended the talk by saying we should not be unethical with such information.
 
 ### Master the Moment of Decision Using Applied Neuroscience Methods for Measuring Attention, Emotion & Memory – Karsten Lund
 
-This lesson featured Karsten Lund’s talk at Elite Camp 2016. It was about how attention, emotion and memory combine to affect our decision-making. I particularly liked how as it ended there was a comparison of two commercials, the Volkswagen commercial with the kid in Darth Vader costume and the Evian commercial where people dance to reflections of their baby selves. I had watched the Volkswagen before so I knew it was the successful one and not the failed one when quizzed.
+This lesson featured Karsten Lund’s talk at Elite Camp 2016. It was about how attention, emotion, and memory combine to affect our decision-making. Just like Schutz he gave plenty of examples. I particularly liked how as it ended there was a comparison of two commercials, the Volkswagen commercial with the kid in Darth Vader costume and the Evian commercial where people dance to reflections of their baby selves. When he asked the audience which they thought was the successful one (the other was apparently a failed one), I immediately knew it was the Volkswagen one because I had watched it before.
 
 ## Learning and Memory
 
-In this course Laja explains three different methods of learning, and the key mechanisms involved in memory.
+In this course, Laja explains three different methods of learning and the key mechanisms involved in memory.
 
 ### Psychology of Learning
 
-This lesson talked about classical conditioning, operant conditioning, and observational learning. All three were interesting to learn about. There was a quiz by the end with 3 questions. I was no longer as nervous about taking a quiz this time around.
+This lesson talked about classical conditioning, operant conditioning, and observational learning. All three were interesting to learn about. There was a quiz by the end with 3 questions. I was no longer as nervous about taking a quiz this time around and I'm glad I passed 100%.
 
 ### Psychology of Memory
 
-This lesson was about the three major processes involved in memory: encoding, storage, and retrieval.
+This lesson was about the three major processes involved in memory: encoding, storage, and retrieval and how such are applied to online marketing. Through experimentation, surveys, and user testing, we can determine if our marketing was effective when, for example, users were able to recall specific product details.
 
 I am beginning to see common patterns throughout the courses. For example, that we make decisions based on the emotional brain is repeated quite often. This makes me realize this is something fundamental in this course.
 
