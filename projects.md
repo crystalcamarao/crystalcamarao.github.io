@@ -16,5 +16,5 @@ layout: page
 
 ## Graveyard
 * [Digitally Well](https://getdigitallywell.com) - I started this newsletter promoting digital wellness but now Madi Thomas runs it.
-* [Humaling](https://humaling.com) - I managed this blog about Filipino culture.
+* [Humaling](https://humaling.com) - I managed this blog promoting Filipino culture.
 * [Time Until Xmas](https://twitter.com/time_until_xmas) - I made this Twitter bot counting down the time left until Christmas.
