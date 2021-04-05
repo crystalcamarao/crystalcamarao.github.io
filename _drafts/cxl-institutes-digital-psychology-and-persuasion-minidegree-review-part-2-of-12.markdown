@@ -1,7 +1,7 @@
 ---
 title: CXL Institute’s Digital Psychology and Persuasion Minidegree Review (Part 2
   of 12)
-date: 2021-04-04 22:34:00 +08:00
+date: 2021-04-05 14:34:00 +08:00
 categories:
 - digital psychology
 tags:
@@ -69,6 +69,8 @@ This lesson started off by explaining that behavioral science suggests our decis
 This lesson featured Bart Schutz’s talk at the ConversionXL Live 2016 Conference. It focused mainly on the duality of our brains and how we are mostly not in control. He gave tons of examples which helped explain the concepts. It got technical towards the end which I had some trouble understanding. I liked how he ended the talk by saying we should not be unethical with such information.
 
 ### Master the Moment of Decision Using Applied Neuroscience Methods for Measuring Attention, Emotion & Memory – Karsten Lund
+
+This lesson featured Karsten Lund’s talk at Elite Camp 2016.
 
 Just like last week, I learned a lot. I feel grateful for the chance to do this Minidegree.
 
