@@ -54,6 +54,16 @@ In this course, Bart Schutz helps us identify and understand the decisions users
 
 ### 4 Factors that Influence Decision Making
 
+This lesson started off by explaining that behavioral science suggests our decision-making process is a lot more fueled by emotions than rational. It then went on to explain four chief mental processes that influence decisions:
+
+1. Cognitive Biases;
+
+2. Memories;
+
+3. Reason; and
+
+4. Emotions.
+
 ### Persuasive Journey Mapping
 
 ### Master the Moment of Decision Using Applied Neuroscience Methods for Measuring Attention, Emotion & Memory – Karsten Lund
