@@ -66,6 +66,8 @@ This lesson started off by explaining that behavioral science suggests our decis
 
 ### Persuasive Journey Mapping
 
+This lesson featured Bart Schutz’s talk at the ConversionXL Live 2016 Conference.
+
 ### Master the Moment of Decision Using Applied Neuroscience Methods for Measuring Attention, Emotion & Memory – Karsten Lund
 
 Just like last week, I learned a lot. I feel grateful for the chance to do this Minidegree.
