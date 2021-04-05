@@ -3,6 +3,7 @@ title: Projects
 permalink: "/projects/"
 layout: page
 ---
+
 <h2>Current Side Projects</h2>
 [Three Things Daily](https://threethingsdaily.xyz) - I made this public gratitude journal app.
 
