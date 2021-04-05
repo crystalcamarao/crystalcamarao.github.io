@@ -66,7 +66,7 @@ This lesson started off by explaining that behavioral science suggests our decis
 
 ### Persuasive Journey Mapping
 
-This lesson featured Bart Schutz’s talk at the ConversionXL Live 2016 Conference.
+This lesson featured Bart Schutz’s talk at the ConversionXL Live 2016 Conference. It focused mainly on the duality of our brains and how we are mostly not in control. He gave tons of examples which helped explain the concepts. It got technical towards the end which I had some trouble understanding. I liked how he ended the talk by saying we should not be unethical with such information.
 
 ### Master the Moment of Decision Using Applied Neuroscience Methods for Measuring Attention, Emotion & Memory – Karsten Lund
 
