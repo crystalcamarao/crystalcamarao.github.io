@@ -24,19 +24,29 @@ The study in this lesson attempted to answer the question: Are some visual cues 
 
 ### Eye Gaze Patterns
 
-This video lesson by Sophia Eng talked about how eye gaze patterns are affected by the difficulty of the task. It is important for a website to be as simple as possible and for the user to be able to finish the task as quickly as possible.
+This video lesson by Sophia Eng talked about how eye gaze patterns are affected by the difficulty of the task. It is important for a website to be as simple as possible and for the user to be able to finish the task as quickly as possible. I had trouble understanding this lesson, but maybe it's because I'm the type who reads versus watches. I also did not like that she was not looking at the camera because it was distracting for me.
 
 ### Understanding Online Reading Patterns
 
-This was another video lesson by Eng, this time about the 3 most common online reading patterns, evidenced by eyetracking studies.
+This was another video lesson by Eng, this time about the 3 most common online reading patterns, evidenced by eyetracking studies. These online reading patterns depend on what the task is at hand. The key takeaway for me was that content should be scannable. This time I understood the lesson better.
 
 ### Case Study: Online Reading Patterns
 
+The lesson was about a study conducted to answer the following:
 
+* How are online articles read?
+
+* How much of the article gets read?
+
+* Do people read image captions?
+
+* Do older internet users read articles the same way younger users do?
+
+The results were interesting. For example, both younger and older users viewed the first half of the article for the longest amount of time, indicating that the beginning of your content is usually the most important when it comes to grabbing attention.
 
 ### User Reading Patterns of the New York Times – 2004 vs. 2016
 
-
+The study featured in this lesson replicated a 2004 study to find out what were the ‘priority viewing areas’ for how people process a news site as well as if ‘today’s users’ process the contemporary design differently than in 2004. It turned out that the priority viewing areas did not differ much in both studies. The center and upper left of the page have more immediate prominence. Moreover, the study found that "the large banner ads in the 2016 variation made users jump around the page, causing way more variability in what people read compared to the 2004 version".
 
 ## Decision Making and Emotions
 
@@ -50,4 +60,4 @@ In this course, Bart Schutz helps us identify and understand the decisions users
 
 Just like last week, I learned a lot. I feel grateful for the chance to do this Minidegree.
 
-*If you’re considering taking CXL Institute courses, please support me by [signing up using my affiliate link](http://cxl.com/institute/#_r_crystal80).
+\*If you’re considering taking CXL Institute courses, please support me by [signing up using my affiliate link](http://cxl.com/institute/#_r_crystal80).
