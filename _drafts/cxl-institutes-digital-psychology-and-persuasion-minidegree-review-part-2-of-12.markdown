@@ -16,11 +16,11 @@ Dooley explained here how cognitive load makes things harder for your potential 
 
 ### How Distracting are Banner Advertisements on Home Pages? A Case Study
 
-This lesson talked about a study that attempts to get actual data on how distracting ads can be. 
+This lesson talked about a study that attempts to get actual data on how distracting ads can be. The results were that advertisements on the homepage can hinder a visitor's understanding of what is being offered. This means that the less clutter there is, the better.
 
 ### Visual Cue Case Study: Lead Generation Form on a Landing Page
 
-
+The study in this lesson attempted to answer the question: Are some visual cues more effective than others? The variation of an arrow had the best performance for this study, while the variation of a human looking away had the worst performance with regards to how much a user pays attention to the form. It would seem then that some visual cues are more effective than others.
 
 ### Eye Gaze Patterns
 
