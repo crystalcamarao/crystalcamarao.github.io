@@ -8,7 +8,7 @@ tags:
 - CXL Insitute
 ---
 
-This week, I finished the rest of the second course as well as the whole third course of the **Psychology Foundations** track.
+This week, I finished the rest of the second course as well as the whole third and fourth (final) courses of the **Psychology Foundations** track.
 
 ### Cognitive Load
 
@@ -71,6 +71,18 @@ This lesson featured Bart Schutz’s talk at the ConversionXL Live 2016 Conferen
 ### Master the Moment of Decision Using Applied Neuroscience Methods for Measuring Attention, Emotion & Memory – Karsten Lund
 
 This lesson featured Karsten Lund’s talk at Elite Camp 2016. It was about how attention, emotion and memory combine to affect our decision-making. I particularly liked how as it ended there was a comparison of two commercials, the Volkswagen commercial with the kid in Darth Vader costume and the Evian commercial where people dance to reflections of their baby selves. I had watched the Volkswagen before so I knew it was the successful one and not the failed one when quizzed.
+
+## Learning and Memory
+
+In this course Laja explains three different methods of learning, and the key mechanisms involved in memory.
+
+### Psychology of Learning
+
+This lesson talked about classical conditioning, operant conditioning, and observational learning. All three were interesting to learn about. There was a quiz by the end with 3 questions. I was no longer as nervous about taking a quiz this time around.
+
+### Psychology of Memory
+
+This lesson was about the three major processes involved in memory: encoding, storage, and retrieval.
 
 I am beginning to see common patterns throughout the courses. For example, that we make decisions based on the emotional brain is repeated quite often. This makes me realize this is something fundamental in this course.
 
