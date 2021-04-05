@@ -28,7 +28,7 @@ This video lesson by Sophia Eng talked about how eye gaze patterns are affected 
 
 ### Understanding Online Reading Patterns
 
-
+This was another video lesson by Eng, this time about the 3 most common online reading patterns, evidenced by eyetracking studies.
 
 ### Case Study: Online Reading Patterns
 
