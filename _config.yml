@@ -28,4 +28,5 @@ plugins:
 google_analytics: UA-81646954-2
 header_pages:
 - about.md
+- projects.md
 facebook_app_id: 386459599144650
