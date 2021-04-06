@@ -4,10 +4,8 @@ permalink: "/projects/"
 layout: page
 ---
 
-## Current Side Project
+## Current Side Projects
 * [Three Things Daily](https://threethingsdaily.xyz) - I made this public gratitude journal app.
-
-## Current Businesses
 * [World Bites](https://worldbites.ph) - I own this small business in the Philippines, an international snacks online store.
 * [Z and C Inc.](https://zandcinc.com) - I co-own this small business in the Philippines consisting of [ToughLadies](https://shoptoughladies.com), a fitness accessories online store.
 
