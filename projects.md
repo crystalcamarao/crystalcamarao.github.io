@@ -4,7 +4,7 @@ permalink: "/projects/"
 layout: page
 ---
 
-## Current Side Projects
+## Current Side Project
 * [Three Things Daily](https://threethingsdaily.xyz) - I made this public gratitude journal app.
 
 ## Current Businesses
@@ -15,6 +15,6 @@ layout: page
 * [Oh, the Places Crystal Will Go!](https://ohtheplacescrystalwillgo.com) - I plan to become a digital nomad and launch a travel blog after the pandemic.
 
 ## Graveyard
-* [Digitally Well](https://getdigitallywell.com) - I started this newsletter promoting digital wellness but now Madi Thomas runs it.
+* [Digitally Well](https://getdigitallywell.com) - I started this newsletter promoting digital wellness but now someone else runs it.
 * [Humaling](https://humaling.com) - I managed this blog promoting Filipino culture.
 * [Time Until Xmas](https://twitter.com/time_until_xmas) - I made this Twitter bot counting down the time left until Christmas.
