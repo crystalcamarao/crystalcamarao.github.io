@@ -8,11 +8,15 @@ tags:
 - CXL Insitute
 ---
 
-This week, I finished the first course as well as a part of the second course of **Neuromarketing & persuasion models**, the second track of this Minidegree.
+This week, I finished the first course as well as a part of the second course of **Neuromarketing & persuasion models**, the second track of this Minidegree. In this track, the goal is to learn to market to your user’s behavioral patterns in harmony with their conscious minds, and as such "become dramatically more persuasive, motivational, and habit-forming".
 
 ## Intro to Neuromarketing
 
+In this course, pioneer neuromarketer Roger Dooley explains how to appeal to the largely untapped, nonconscious brain.
+
 ### About Your Instructor – Roger Dooley
+
+The course started off with Dooley introducing himself and telling his story. I found it interesting that we both started in technical fields who later found their way to digital marketing.
 
 ### It’s Time for a Marketing Revolution
 
