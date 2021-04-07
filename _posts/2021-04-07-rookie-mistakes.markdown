@@ -13,4 +13,4 @@ The first rookie mistake was that I didn't have an Apple touch icon set. I was o
 
 The second rookie mistake was that I sent out emails asking for feedback in the middle of the day here in the Philippines. Since at least 80% of Three Things Daily's users are from the US, or at least by my estimate based on the analytics, it meant it was already night there. People were on their way to sleep, and probably couldn't be bothered to reply. I only got 5 replies. They were very valuable feedback, but still, it could have been more.
 
-I guess like everything, it is a learning process. I'm bound to make even more mistakes but at least now I know better.
+I guess like everything, it is a learning process. I'm bound to make even more mistakes but at least I get better.
