@@ -20,6 +20,8 @@ The course started off with Dooley introducing himself and telling his story. I 
 
 ### It’s Time for a Marketing Revolution
 
+
+
 ### Schools of Thought
 
 ### EEG, Biometrics, Eyetracking, Facial Coding
