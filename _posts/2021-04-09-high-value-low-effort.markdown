@@ -1,6 +1,6 @@
 ---
 title: High Value, Low Effort
-date: 2021-04-09 12:25:00 +08:00
+date: 2021-04-09 19:21:00 +08:00
 categories:
 - productivity
 ---
