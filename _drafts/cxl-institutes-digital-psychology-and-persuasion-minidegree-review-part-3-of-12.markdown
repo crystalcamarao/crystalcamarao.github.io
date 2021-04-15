@@ -1,7 +1,7 @@
 ---
 title: CXL Institute’s Digital Psychology and Persuasion Minidegree Review (Part 3
   of 12)
-date: 2021-04-11 14:56:00 +08:00
+date: 2021-04-15 14:56:00 +08:00
 categories:
 - digital psychology
 tags:
@@ -20,7 +20,7 @@ The course started off with Dooley introducing himself and telling his story. I 
 
 ### It’s Time for a Marketing Revolution
 
-
+Dooley talked about how marketers are not trusted by the general public and even their own CEOs.
 
 ### Schools of Thought
 
