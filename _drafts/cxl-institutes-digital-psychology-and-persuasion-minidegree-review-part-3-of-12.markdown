@@ -8,7 +8,9 @@ tags:
 - CXL Insitute
 ---
 
-This week, I finished the first course as well as a part of the second course of **Neuromarketing & persuasion models**, the second track of this Minidegree. In this track, the goal is to learn to market to your user’s behavioral patterns in harmony with their conscious minds, and as such "become dramatically more persuasive, motivational, and habit-forming".
+This week, I finished the first course as well as a part of the second course of **Neuromarketing & persuasion models**, the second track of this Minidegree.
+
+In this track, the goal is to learn to market to your user’s behavioral patterns in harmony with their conscious minds, and as such "become dramatically more persuasive, motivational, and habit-forming".
 
 ## Intro to Neuromarketing
 
