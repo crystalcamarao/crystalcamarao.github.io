@@ -5,9 +5,9 @@ layout: page
 ---
 
 ## Current Side Projects
-* [Three Things Daily](https://threethingsdaily.xyz) - I made this public gratitude journal app.
-* [World Bites](https://worldbites.ph) - I own this small business in the Philippines, an international snacks online store.
-* [Z and C Inc.](https://zandcinc.com) - I co-own this small business in the Philippines consisting of [ToughLadies](https://shoptoughladies.com), a fitness accessories online store.
+* [Three Things Daily](https://threethingsdaily.xyz) - I made this website of a gratitude wall.
+* [World Bites](https://worldbites.ph) - I own this small business, an international snacks online store in the Philippines.
+* [Z and C Inc.](https://zandcinc.com) - I co-own this small business consisting of [ToughLadies](https://shoptoughladies.com), a fitness accessories online store in the Philippines.
 
 ## Coming Soon
 * [Oh, the Places Crystal Will Go!](https://ohtheplacescrystalwillgo.com) - I plan to become a digital nomad and launch a travel blog after the pandemic.
