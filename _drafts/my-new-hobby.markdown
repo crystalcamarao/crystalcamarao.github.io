@@ -1,6 +1,8 @@
 ---
 title: My New Hobby
 date: 2021-04-23 07:00:00 +08:00
+categories:
+- hobbies
 ---
 
 A couple of days ago the Google Play Store approved my first-ever mobile app, [My Prayer Requests](https://myprayerrequests.app). I made it for my mom and it was inspired by my Bible counselor. Basically, it's a prayer journal and community app.
