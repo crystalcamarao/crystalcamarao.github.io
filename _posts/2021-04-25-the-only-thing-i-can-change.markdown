@@ -1,5 +1,5 @@
 ---
-title: How Coffee and Interest are Related
+title: The Only Thing I Can Change
 date: 2021-04-25 10:25:00 +08:00
 categories:
 - personal
@@ -11,4 +11,4 @@ Coffee is good for you, studies show. But it is also widely known that consumpti
 
 So I need to work on either increasing my interest in the tasks at hand or changing the tasks themselves. The second isn't really an option for me right now, while the first feels too hard. Foregoing coffee altogether doesn't work either because I can't work without caffeine.
 
-Viktor Frankl said that "When we are no longer able to change a situation, we are challenged to change ourselves." Everyone has had situations where they could not change anything, so I feel this is something we can relate to. I guess that means I will have to increase my interest in the tasks at hand.
+Viktor Frankl said that "When we are no longer able to change a situation, we are challenged to change ourselves." Everyone has had situations where they could not change anything, so this is something we can all relate to, and I find it very true. I guess that means I will have to find a way to increase my interest in the tasks I have to do because that's the only thing I can change.
