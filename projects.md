@@ -5,9 +5,9 @@ layout: page
 ---
 
 ## Current Side Projects
-* [Three Things Daily](https://threethingsdaily.xyz) - I made a web app and mobile app that has a gratitude wall.
+* [Three Things Daily](https://threethingsdaily.xyz) - I made a web app and mobile app that's a gratitude wall.
 * [My Prayer Requests](https://myprayerrequests.app) - I made a mobile app that's a prayer journal and community.
-* [Bible Study Partner](https://biblestudypartner.app) - I made a mobile app providing digital support for Bible study groups.
+* [Bible Study Partner](https://biblestudypartner.app) - I made a mobile app that's providing digital support for Bible study groups.
 
 ## Current Businesses
 * [World Bites](https://worldbites.ph) - I own this small business, an international snacks online store in the Philippines.
