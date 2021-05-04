@@ -5,7 +5,7 @@ layout: page
 ---
 
 ## Current Side Projects
-* [Three Things Daily](https://threethingsdaily.xyz) - I made a web app and mobile app of a gratitude wall.
+* [Three Things Daily](https://threethingsdaily.xyz) - I made a web app and a mobile app of a gratitude wall.
 * [My Prayer Requests](https://myprayerrequests.app) - I made a mobile app that's a prayer journal and community.
 * [Bible Study Partner](https://biblestudypartner.app) - I made a mobile app providing digital support for Bible study groups.
 
