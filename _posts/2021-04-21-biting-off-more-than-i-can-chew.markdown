@@ -7,7 +7,7 @@ categories:
 
 I hit a milestone in my freelancing career this month. But at what cost? I took on too much work, and now I'm paying for it. I'm burnt out.
 
-I have 2 part-time jobs and 2 ongoing freelance projects. Plus I'm studying for a CXL Institute Minidegree. I also have [3 side projects](/projects). It's kinda crazy, right? I know I have to let go of some of my commitments.
+I have 2 part-time jobs and 2 ongoing freelance projects. Plus I'm studying for a CXL Institute Minidegree. I also have personal [projects](/projects). It's kinda crazy, right? I know I have to let go of some of my commitments.
 
 The first that had to go was my CXL Institute Minidegree. It pains me because it's kinda well-known that a CXL certificate will cause your LinkedIn inbox to be full of recruiters looking to hire you. But it's just not the right time. Hopefully, in the future, I will finish it. Thankfully, I was allowed to pause my scholarship for now.
 
