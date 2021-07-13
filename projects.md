@@ -9,7 +9,7 @@ layout: page
 * [World Bites](https://worldbites.ph) - I own this small business, an international snacks online store in the Philippines.
 * [Z and C Inc.](https://zandcinc.com) - I co-own this small business consisting of [ToughLadies](https://shoptoughladies.com), a fitness accessories online store in the Philippines.
 
-## Occassionally Maintaining
+## Occasionally Maintaining
 * [My Prayer Requests](https://myprayerrequests.app) - I made a mobile app that's a prayer journal and community.
 * [Bible Study Partner](https://biblestudypartner.app) - I made a mobile app providing digital support for Bible study groups.
 * [Time Until Xmas](https://twitter.com/time_until_xmas) - I made this Twitter bot counting down the time left until Christmas.
