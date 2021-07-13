@@ -6,10 +6,8 @@ layout: page
 
 ## Working On
 * [Three Things Daily](https://threethingsdaily.xyz) - I made a web app and a mobile app of a gratitude wall.
-* [Z and C Inc.](https://zandcinc.com) - I co-own this small business consisting of [ToughLadies](https://shoptoughladies.com), a fitness accessories online store in the Philippines.
-
-## On Hiatus
 * [World Bites](https://worldbites.ph) - I own this small business, an international snacks online store in the Philippines.
+* [Z and C Inc.](https://zandcinc.com) - I co-own this small business consisting of [ToughLadies](https://shoptoughladies.com), a fitness accessories online store in the Philippines.
 
 ## Occassionally Maintaining
 * [My Prayer Requests](https://myprayerrequests.app) - I made a mobile app that's a prayer journal and community.
